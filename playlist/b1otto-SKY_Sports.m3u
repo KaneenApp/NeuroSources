@@ -2,22 +2,20 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-21 08:15 PM (BD Time)
-# TV channel counts :- 73
+# Last Updated: 2026-03-22 05:52 AM (BD Time)
+# TV channel counts :- 72
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774096163839-392655207.webp" group-title="Cricket - (Live)",Rhinos VS Gladiators [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69b956704fc83a02626d0970
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774011584302-508302702.webp" group-title="Cricket - (Upcoming)",Bagmati Province VS Armed Police Force Club [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd44c1f77efcba7bc9b2e1
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774011512071-236759588.webp" group-title="Cricket - (Upcoming)",Tribhuvan army Club VS Nepal Police Club [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd447aad13c7c680cd6194
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774101940463-351595250.webp" group-title="Cricket - (Upcoming)",India DA VS Belgium DA [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bea5b6e0409919642c3524
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773754085651-466348350.webp" group-title="Cricket - (Upcoming)",TBA - 1 VS TBA - 1 [Upcoming]
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774109521588-479357119.webp" group-title="Cricket - (Upcoming)",HELIZ VS Royals [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b956e775a94bf857f32b2a
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773408374319-219569282.webp" group-title="Cricket - (Upcoming)",CricGiri Champs VS Meerut Civil Line Heroes [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b4107975a94bf857f32b1c
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773754144424-124208336.webp" group-title="Cricket - (Upcoming)",TBA - 1 VS TBA - 1 [Upcoming]
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774109571375-955044349.webp" group-title="Cricket - (Upcoming)",Uhuru VS Rhinos [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b95722ad13c7c680cd6185
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773754296749-926603773.webp" group-title="Cricket - (Upcoming)",TBA - 1 VS TBA - 1 [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b957bb4fc83a02626d0971
@@ -33,10 +31,10 @@ https://sportsbd.top/demo/styxsportm3u8.php?id=69bd459fad13c7c680cd6195
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b410cb75a94bf857f32b1d
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773408503837-959207301.webp" group-title="Cricket - (Upcoming)",White Dot Shastri Nagar VS Shubham Smashers [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b410fac1607e03f14f901d
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774011971856-400991336.webp" group-title="Cricket - (Upcoming)",Gandaki Province VS Bagmati Province [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4648a9478b733552d833
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774012022672-380225691.webp" group-title="Cricket - (Upcoming)",Nepal Police Club VS Armed Police Force Club [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4679e0409919642c351b
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774011971856-400991336.webp" group-title="Cricket - (Upcoming)",Gandaki Province VS Bagmati Province [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4648a9478b733552d833
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773408577205-829086084.webp" group-title="Cricket - (Upcoming)",CricGiri Champs VS Meerut Cant Commandos [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b41144c1607e03f14f901e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773408620807-531585901.webp" group-title="Cricket - (Upcoming)",Meerut Civil Line Heroes VS BBC Elite [Upcoming]
