@@ -1,0 +1,38 @@
+name: Update Alive Channels
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"   # كل 10 دقيقة
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pytz beautifulsoup4
+
+      - name: Run IPTV Processor
+        run: python iptv_processor.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "BOT"
+          git config user.email "bot@github.com"
+          git pull --rebase origin main
+          git add LiveTV/Arabic/*.m3u8 LiveTV/Arabic/*.txt LiveTV/Arabic/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update alive channels"
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

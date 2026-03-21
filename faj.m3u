@@ -1,0 +1,60 @@
+#EXTINF:-1,###########SERVER1###########
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FajerTV1 FULL HD" tvg-logo="http://clipart-library.com/images/XpToazniE.png" group-title="PALESTINE - فلسطين", FajerTV1 FULL HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FajerTV2 FULL HD" tvg-logo="http://clipart-library.com/images/XpToazniE.png" group-title="PALESTINE - فلسطين", FajerTV2 FULL HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FajerTV3 FULL HD" tvg-logo="http://clipart-library.com/images/XpToazniE.png" group-title="PALESTINE - فلسطين", FajerTV3 FULL HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FajerTV4 FULL HD" tvg-logo="http://clipart-library.com/images/XpToazniE.png" group-title="PALESTINE - فلسطين", FajerTV4 FULL HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FajerTV5 FULL HD" tvg-logo="http://clipart-library.com/images/XpToazniE.png" group-title="PALESTINE - فلسطين", FajerTV5 FULL HD
+http://5678999.life:2082/live/adamusa1242025/attalah77448866/667208.m3u8
+
+#EXTINF:-1,###########SERVER2###########
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 1" tvg-logo="" group-title="FAJER TV",Fajer Tv 1
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 2" tvg-logo="" group-title="FAJER TV",Fajer Tv 2
+https://3.3lok3.site:443/live/12345/12345/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 3" tvg-logo="" group-title="FAJER TV",Fajer Tv 3
+https://3.3lok3.site:443/live/12345/12345/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 4" tvg-logo="" group-title="FAJER TV",Fajer Tv 4
+https://3.3lok3.site:443/live/12345/12345/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fajer Tv 5" tvg-logo="" group-title="FAJER TV",Fajer Tv 5
+https://3.3lok3.site:443/live/12345/12345/89.m3u8
+#EXTINF:-1,###########SERVER3###########
+#EXTINF:-1 tvg-id="1806744" tvg-name="AR| AL FAJER 1" group-title="BEE| AL FAJER",AR| AL FAJER 1
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806744&extension=m3u8&play_token=2zu6ZRLk8C
+#EXTINF:-1 tvg-id="1806743" tvg-name="AR| AL FAJER 2" group-title="BEE| AL FAJER",AR| AL FAJER 2
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806743&extension=m3u8&play_token=B9S1fmt2Yj
+#EXTINF:-1 tvg-id="1806742" tvg-name="AR| AL FAJER 3" group-title="BEE| AL FAJER",AR| AL FAJER 3
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806742&extension=m3u8&play_token=kzEK0EDV0t
+#EXTINF:-1 tvg-id="1806741" tvg-name="AR| AL FAJER 4" group-title="BEE| AL FAJER",AR| AL FAJER 4
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806741&extension=m3u8&play_token=tpECJIttw4
+#EXTINF:-1 tvg-id="1806740" tvg-name="AR| AL FAJER 5" group-title="BEE| AL FAJER",AR| AL FAJER 5
+http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:46:18:44&stream=1806740&extension=m3u8&play_token=ZZyhm6HqgZ
+#EXTINF:-1,###########SERVER4###########
+https://i.postimg.cc/Rqrkkyj8/d9ee2d30-e14a-483c-9203-cee7f7e50340.png
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="General",Fajer TV 1
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153539&extension=m3u8
+#EXTINF:-1 tvg-id="FajerTV2.ps" tvg-logo="https://i.imgur.com/JkVtm2S.png" group-title="General",Fajer TV 2
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153540&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 3" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 3
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 4" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 4
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153542&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PS | Al Fajer 5" tvg-logo="https://i.imgur.com/1xERxmB.png" group-title="Arabes",PS | Al Fajer 5
+http://portal8k.top:80/play/live.php?mac=00:1A:79:23:93:0C&stream=153543&extension=m3u8
+#EXTINF:-1,###########SERVER5###########
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8 
+#EXTINF:-1,Al Fajer1
+http://live.alfajertv.com:2052/hls/ftv1/index.m3u8 
+#EXTINF:-1,Al Fajer2
+http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8 
+#EXTINF:-1,Al Fajer3
+http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8 
+#EXTINF:-1,Al Fajer4
+http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
+#EXTINF:-1,Al Fajer5
+http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8

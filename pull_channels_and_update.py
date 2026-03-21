@@ -1,0 +1,183 @@
+# -*- coding: utf-8 -*-
+"""
+يسحب روابط قنوات محددة من RAW مصادر متعددة (M3U)
+ويقوم بتحديث ملف الوجهة (premierleague.m3u) باستبدال **سطر الرابط فقط**
+الذي يلي #EXTINF لنفس القناة، مع الحفاظ على مكانها ونص الـEXTINF كما هو.
+يحاول جميع الروابط في SOURCE_URLS حتى يلتقط كل القنوات المطلوبة.
+"""
+
+import os, re, sys, base64
+from pathlib import Path
+from typing import List, Tuple, Dict, Optional
+import requests
+
+# ===== إعدادات =====
+
+SOURCE_URLS = [
+   "https://raw.githubusercontent.com/shihaab-islam/iptv-playlist-by-shihaab/refs/heads/main/iptv-playlist-by-shihaab.m3u",
+    "https://raw.githubusercontent.com/la22lo/sports/93071e41b63c35c60a18631e3dc8d9dc2818ae61/futbol.m3u",
+    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/bddbb1a1a24b50ee3e269c49eae50bef5d63894b/bein.m3u",
+    "https://raw.githubusercontent.com/mdarif2743/Cmcl-digital/e3f60bd80f189c679415e6b2b51d79a77440793a/Cmcl%20digital",
+     "https://github.com/fareskhaled505/Me/blob/74e43c8d7dac1e6628ec0174bdc2bd384ea7a55a/bein.m3u8",
+     "https://raw.githubusercontent.com/theariatv/theariatv.github.io/e5c3ce629db976e200a1b4f4ece176b04e829c79/aria.m3u"
+     "https://raw.githubusercontent.com/Yusufdkci/iptv/refs/heads/main/liste.m3u",
+      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/BD.m3u",
+       "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/m3u_url.m3u",
+      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/world.m3u",
+      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/UDPTV.m3u",
+      "https://raw.githubusercontent.com/judy-gotv/iptv/4beaf567d5d056dbe08477a5d15b48c2a2e2dfce/tubi_playlist.m3u",
+      "https://raw.githubusercontent.com/lusianaputri/lusipunyalu/d5d1b411b6020519501860ab1f2dda128a033885/b.txt",
+      "https://github.com/FunctionError/PiratesTv/blob/97aadde222f09567d5f03de4574cae49c3cf90ab/combined_playlist.m3u",
+       "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/a10774f0e8c35443bc9237e2a48e9c0988ff9e0f/LiveTV/India/LiveTV.m3u",
+       "https://raw.githubusercontent.com/sxtv2323/sxtv-iptv11/refs/heads/main/TOD%20.m3u",
+       "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/ALWAN.m3u",
+        "https://raw.githubusercontent.com/raid35/channel-links/refs/heads/main/BLG.m3u",
+         "https://raw.githubusercontent.com/kakagoosse856/1221554/refs/heads/main/sky-uk-nz.m3u",
+       "https://raw.githubusercontent.com/ashik4u/mrgify-clean/refs/heads/main/playlist.m3u",
+       "https://raw.githubusercontent.com/siksa40/xPola-Player/refs/heads/main/beinSA.m3u",
+]
+
+DEST_RAW_URL = os.getenv(
+    "DEST_RAW_URL",
+    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
+)
+GITHUB_TOKEN   = os.getenv("GITHUB_TOKEN", "").strip()
+GITHUB_REPO    = os.getenv("GITHUB_REPO", "kakagoosse856/1221554")
+GITHUB_BRANCH  = os.getenv("GITHUB_BRANCH", "main")
+DEST_REPO_PATH = os.getenv("DEST_REPO_PATH", "premierleague.m3u")
+COMMIT_MESSAGE = os.getenv("COMMIT_MESSAGE", "chore: update premierleague URLs (Match!/TNT/Sky)")
+OUTPUT_LOCAL_PATH = os.getenv("OUTPUT_LOCAL_PATH", "./out/premierleague.m3u")
+TIMEOUT = 25
+VERIFY_SSL = True
+
+# القنوات المطلوبة
+WANTED_CHANNELS = [
+    "Match! Futbol 1", "Match! Futbol 2", "Match! Futbol 3",
+    "TNT 1", "TNT 2", "Sky Sports Main Event", "Sky Sports Premier League",
+]
+
+ALIASES: Dict[str, List[re.Pattern]] = {
+    "Match! Futbol 1": [re.compile(r"match!?\.?\s*futbol\s*1", re.I)],
+    "Match! Futbol 2": [re.compile(r"match!?\.?\s*futbol\s*2", re.I)],
+    "Match! Futbol 3": [re.compile(r"match!?\.?\s*futbol\s*3", re.I)],
+    "TNT 1": [re.compile(r"\btnt\s*(sports)?\s*1\b", re.I)],
+    "TNT 2": [re.compile(r"\btnt\s*(sports)?\s*2\b", re.I)],
+    "Sky Sports Main Event": [re.compile(r"sky\s*sports\s*main\s*event", re.I)],
+    "Sky Sports Premier League": [re.compile(r"sky\s*sports\s*premier\s*league", re.I)],
+}
+
+# ===== وظائف مساعدة =====
+
+def fetch_text(url: str) -> str:
+    r = requests.get(url, timeout=TIMEOUT, verify=VERIFY_SSL)
+    r.raise_for_status()
+    return r.text
+
+def parse_m3u_pairs(m3u_text: str) -> List[Tuple[str, Optional[str]]]:
+    lines = [ln.rstrip("\n") for ln in m3u_text.splitlines()]
+    out: List[Tuple[str, Optional[str]]] = []
+    i = 0
+    while i < len(lines):
+        ln = lines[i].strip()
+        if ln.startswith("#EXTINF"):
+            url = None
+            if i + 1 < len(lines) and lines[i + 1].strip() and not lines[i + 1].strip().startswith("#"):
+                url = lines[i + 1].strip()
+            out.append((ln, url))
+            i += 2
+            continue
+        i += 1
+    return out
+
+def find_first_match(extinf: str, patterns: List[re.Pattern]) -> bool:
+    return any(p.search(extinf) for p in patterns)
+
+def pick_wanted_from_multiple_sources(source_texts: List[str]) -> Dict[str, str]:
+    picked: Dict[str, str] = {}
+    for text in source_texts:
+        pairs = parse_m3u_pairs(text)
+        for extinf, url in pairs:
+            if not url: continue
+            for name in WANTED_CHANNELS:
+                if name in picked: continue
+                if find_first_match(extinf, ALIASES.get(name, [])):
+                    picked[name] = url
+        # توقف إذا التقطنا كل القنوات
+        if len(picked) == len(WANTED_CHANNELS): break
+    return picked
+
+def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes: bytes, message: str, token: str):
+    import base64, requests
+    url = f"https://api.github.com/repos/{repo}/contents/{path_in_repo}"
+    headers = {"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"}
+    sha = None
+    get_res = requests.get(url, headers=headers, params={"ref": branch}, timeout=TIMEOUT)
+    if get_res.status_code == 200: sha = get_res.json().get("sha")
+    payload = {"message": message, "content": base64.b64encode(content_bytes).decode("utf-8"), "branch": branch}
+    if sha: payload["sha"] = sha
+    put_res = requests.put(url, headers=headers, json=payload, timeout=TIMEOUT)
+    if put_res.status_code not in (200, 201):
+        raise RuntimeError(f"GitHub PUT failed: {put_res.status_code} {put_res.text}")
+    return put_res.json()
+
+def render_updated_replace_urls_only(dest_text: str, picked_urls: Dict[str, str]) -> str:
+    lines = [ln.rstrip("\n") for ln in dest_text.splitlines()]
+    if not lines or not lines[0].strip().upper().startswith("#EXTM3U"): lines = ["#EXTM3U"] + lines
+    out: List[str] = []
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if ln.strip().startswith("#EXTINF"):
+            matched_name = None
+            for name in WANTED_CHANNELS:
+                if find_first_match(ln, ALIASES.get(name, [])):
+                    matched_name = name
+                    break
+            if matched_name and matched_name in picked_urls:
+                out.append(ln)
+                new_url = picked_urls[matched_name]
+                if i + 1 < len(lines) and lines[i+1].strip() and not lines[i+1].strip().startswith("#"):
+                    out.append(new_url)
+                    i += 2
+                    continue
+                else:
+                    out.append(new_url)
+                    i += 1
+                    continue
+        out.append(ln)
+        i += 1
+    return "\n".join(out).rstrip() + "\n"
+
+def main():
+    source_texts = []
+    for url in SOURCE_URLS:
+        try:
+            text = fetch_text(url)
+            print(f"[i] Successfully fetched: {url}")
+            source_texts.append(text)
+        except Exception as e:
+            print(f"[x] Failed: {url} ({e})")
+    if not source_texts:
+        raise RuntimeError("No valid SOURCE_URL worked!")
+
+    dest_text = fetch_text(DEST_RAW_URL)
+    picked_urls = pick_wanted_from_multiple_sources(source_texts)
+
+    print("[i] Picked URLs:")
+    for n in WANTED_CHANNELS:
+        print(f"  {'✓' if n in picked_urls else 'x'} {n}")
+
+    updated = render_updated_replace_urls_only(dest_text, picked_urls)
+
+    if GITHUB_TOKEN:
+        res = upsert_github_file(GITHUB_REPO, GITHUB_BRANCH, DEST_REPO_PATH, updated.encode("utf-8"), COMMIT_MESSAGE, GITHUB_TOKEN)
+        print("[✓] Updated:", res.get("content", {}).get("path"))
+    else:
+        p = Path(OUTPUT_LOCAL_PATH)
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(updated, encoding="utf-8")
+        print("[i] Wrote locally to:", p.resolve())
+
+if __name__ == "__main__":
+    try: main()
+    except Exception as e: print("[x] Error:", e); sys.exit(1)

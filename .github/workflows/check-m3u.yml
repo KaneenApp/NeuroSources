@@ -1,0 +1,85 @@
+name: check-m3u.yml
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      custom_url:
+        description: 'Custom M3U URL (optional)'
+        required: false
+        default: ''
+  push:
+    paths:
+      - '.github/workflows/check-m3u.yml'
+      - 'scripts/checker.py'
+      - 'playlists.json'
+
+permissions:
+  contents: write
+
+jobs:
+  check-playlists:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: pip install requests
+    
+    - name: Run M3U Checker
+      run: |
+        echo "Starting M3U playlist check..."
+        python scripts/checker.py
+    
+    - name: Upload results as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: m3u-playlist-results
+        path: |
+          merged_channels.m3u
+          check_results.json
+    
+    - name: Commit and push changes
+      if: success()
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        git add merged_channels.m3u check_results.json 2>/dev/null || true
+        
+        if ! git diff --cached --quiet; then
+          if [ -f "check_results.json" ]; then
+            STATS=$(python3 -c "
+import json
+try:
+    with open('check_results.json', 'r') as f:
+        data = json.load(f)
+    summary = data['summary']
+    valid = summary['valid_urls']
+    total = summary['total_urls']
+    channels = summary['unique_channels']
+    print(f'{valid}/{total} playlists, {channels} channels')
+except:
+    print('Updated playlist')
+")
+          else
+            STATS="Updated playlist"
+          fi
+          
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M")
+          git commit -m "Update M3U playlist ($STATS) - $TIMESTAMP"
+          git push
+          echo "Changes committed and pushed"
+        else
+          echo "No changes to commit"
+        fi

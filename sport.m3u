@@ -1,0 +1,112 @@
+#EXTM3U
+################ beIN SPORTS ################
+#EXTINF:-1,beIN MAX 1 
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,beIN MAX 1 
+http://thksmom.shop/IN_AC1/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=9b95cff1e40014ac04d8eff27f09e7ed
+#EXTINF:-1,beIN MAX 2 
+http://thksmom.shop/IN_AC2/tracks-v1a1/mono.m3u8?token=8543cd010d7bfaaa82563395e8f9af57
+#EXTINF:-1,NRT SPORT HD
+http://109.123.245.192/bein111/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zaxosport
+http://109.123.245.192/Zaxosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ldsport
+http://109.123.245.192/Ldsport/index.m3u8
+#EXTINF:-1,Avasport
+http://109.123.245.192/Avasport11/index.m3u8
+http://109.123.245.192/Avasport11/tracks-v1a1/mono.m3u8
+#EXTINF:-1,gzcspor
+http://116.202.117.244/gzcspor/gzcspor/chunklist.m3u8
+# Telegram: https://t.me/neonplustv
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 2" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 2
+http://s1d.ktxott.site/live/KTNCHApyfF68GDSyW/PnSzc3nSsg8ZT47iZr404okgd/132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 3" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 3
+https://py.dencreak.com/bn_s_fhd3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 4" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 4
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 5" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 5
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 6" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 6
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 7" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 7
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 8" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 8
+https://liveeu-gcp.alkassdigital.net/alkass8-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الكأس 9" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_liOz4wSiQryYNHlyL7msffUdwbjQmbmoPZyYqbql8q0g=s900-c-k-c0x00ffffff-no-rj" group-title="الكأس",الكأس 9
+https://liveeu-gcp.alkassdigital.net/alkass9-p/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4312.png", SUPER SPORT 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156708&extension=ts&play_token=PUpfz7MQCW
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="http://148.251.133.153:8181/logo/chn/4313.png", SUPER SPORT 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156709&extension=ts&play_token=aWTaH42mEX
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4314.png", SUPER SPORT 3
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156710&extension=ts&play_token=KgLElJtguv
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 4" tvg-logo="http://148.251.133.153:8181/logo/chn/4315.png", SUPER SPORT 4
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156711&extension=ts&play_token=LkzreJAF6c
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORTS 5" tvg-logo="http://148.251.133.153:8181/logo/chn/4316.png", SUPER SPORTS 5
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156712&extension=ts&play_token=o2RBIpSu9j
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 6 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4317.png", SUPER SPORT 6
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156713&extension=ts&play_token=IB8N8lyUK1
+#EXTINF:-1 tvg-id="" tvg-name="AL | SUPER SPORT 7 [Live During Events Only]" tvg-logo="http://148.251.133.153:8181/logo/chn/4318.png", SUPER SPORT 7
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=304662&extension=ts&play_token=CuVTC6Xg9B
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1" tvg-logo="http://148.251.133.153:8181/logo/chn/4216.png" group-title="ALBANIA",AL: ART SPORT 1
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156719&extension=ts&play_token=0rcrtsGeAi
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2" tvg-logo="http://148.251.133.153:8181/logo/chn/4217.png" group-title="ALBANIA",AL: ART SPORT 2
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:c1:e3:9a&stream=156720&extension=ts&play_token=l3cdQvqWRw
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3" tvg-logo="http://148.251.133.153:8181/logo/chn/4218.png" group-title="ALBANIA",AL: ART SPORT 3
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/MjOArMy8Iwz0wt1ngC9DioI_EzkI0ZU4ZZAo-PQkSqLZV8IdY9bEfJZclkEGxXORaIlXVEJS7VoBa0oRdSS33A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ALFAJER1-FHD" tvg-name="AL FAJER 1 FHD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (FHD)
+https://cdnfest.com/ftv1-1080p-castx/rewind-20.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/&tod-drm=true
+#EXTINF:-1 tvg-id="ALFAJER1-HD" tvg-name="AL FAJER 1 HD" tvg-logo="https://i.ibb.co/0cY46br/AL-FAJER-1.jpg" group-title="AL FAJER TV",AL FAJER 1 (HD)
+https://cast-x.com/token.php?id\u003dfjr_1_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003d33d8f4953f4df7c00d1558963071748b12dee6c9426b8873472809ad6fd71112
+#EXTINF:-1 tvg-id="ALFAJER2-FHD" tvg-name="AL FAJER 2 FHD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (FHD)
+https://cdnfest.com/ftv2-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER2-HD" tvg-name="AL FAJER 2 HD" tvg-logo="https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg" group-title="AL FAJER TV",AL FAJER 2 (HD)
+https://cast-x.com/token.php?id\u003dfjr_2_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003ddb42034f93dd2d8f41989a0b659367949f0d4e4b4eee8e91f02e9925eb5f5a11
+#EXTINF:-1 tvg-id="ALFAJER3-FHD" tvg-name="AL FAJER 3 FHD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (FHD)
+https://cdnfest.com/ftv3-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER3-HD" tvg-name="AL FAJER 3 HD" tvg-logo="https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg" group-title="AL FAJER TV",AL FAJER 3 (HD)
+https://cast-x.com/token.php?id\u003dfjr_3_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003dd66ae3af84e53d271527f6a303beac8488a85cea7da441646259c82a02899f88#EXTINF:-1 tvg-id="ALFAJER4-FHD" tvg-name="AL FAJER 4 FHD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (FHD)
+https://cdnfest.com/ftv4-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER4-HD" tvg-name="AL FAJER 4 HD" tvg-logo="https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg" group-title="AL FAJER TV",AL FAJER 4 (HD)
+https://cast-x.com/token.php?id\u003dfjr_4_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003db9a820c6ef6a402c7ce407e8678cba897dfe9d6215c662f4e86a4ede17005ad8#EXTINF:-1 tvg-id="ALFAJER5-FHD" tvg-name="AL FAJER 5 FHD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (FHD)
+https://cdnfest.com/ftv5-1080p/playlist.m3u8|user-agent=Mejarx&referer=https://mejar-Server.site/&origin=https://mejar-Server.site/
+#EXTINF:-1 tvg-id="ALFAJER5-HD" tvg-name="AL FAJER 5 HD" tvg-logo="https://i.ibb.co/W6VV956/AL-FAJER-5.jpg" group-title="AL FAJER TV",AL FAJER 5 (HD)
+https://cast-x.com/token.php?id\u003dfjr_5_720p\u0026type\u003dhls\u0026h\u003dhttps%3A%2F%2Fcdn-js-mejarserver.aka-akamaized.net\u0026ts\u003d1768054403\u0026sig\u003dbc0d1d2be8ab7a00f90fd3bb8ca41793664f63469d541f9d03ad46e9e464b825
+
+      "title": "Fajer 1 ᴴᴰ",
+      "logo": "https://i.ibb.co/0cY46br/AL-FAJER-1.jpg",
+      "position": "0",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 1 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"1\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 2 ᴴᴰ",
+      "logo": "https://i.ibb.co/P4CR80X/AL-FAJER-2.jpg",
+      "position": "1",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 2 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 3 ᴴᴰ",
+      "logo": "https://i.ibb.co/yXf7bTT/AL-FAJER-3.jpg",
+      "position": "2",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 3 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 4 ᴴᴰ",
+      "logo": "https://i.ibb.co/sFfdsqc/AL-FAJER-4.jpg",
+      "position": "3",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 4 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"
+    },
+    {
+      "title": "Fajer 5 ᴴᴰ",
+      "logo": "https://i.ibb.co/W6VV956/AL-FAJER-5.jpg",
+      "position": "4",
+      "servers": "[{\"license\":\"\",\"headers\":\"{}\",\"scheme\":\"\",\"otherHeaders\":\"\",\"isWeb\":\"false\",\"name\":\"Al - Fajer 5 ᴴᴰ\",\"Referer\":\"\",\"userAgent\":\"\",\"position\":\"\",\"url\":\"\",\"label\":\"Server (HLS)\"}]"

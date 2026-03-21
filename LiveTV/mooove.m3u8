@@ -1,0 +1,27 @@
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VBn1JkeyqEA7F1h/H76ZSg", "kid":"VWanQjEnUrKrYFd3o7snvA" } ], "type":"temporary" }
+#EXTINF:-1 type="" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-portrait.jpg",  Joker 2019
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/032259X0-portrait.jpg",  Finding The Way Home 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"ZSf2NvqOpem5wYV9G+XjwA", "kid":"tw5m8hyXWkOWLhftEPKYxQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60fe88f5e59f821aa9e6efed_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/023947X1-portrait.jpg",  Wig 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"bX8YJxIRRTAxGz9+sSwnsw", "kid":"vSa+1vIgUK6gu2pHAqBTAg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f2926b36d048943f75d1013_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="" group-title="HBOGO ASIA 2016-2020" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/029388X0-portrait.jpg",  Lindsey Vonn: The Final Season 2019
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"DsXCZbQHXjNKgeNtWXb7Bg", "kid":"R7BCJ+gmV+qFvCFFgH/EOQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60473f486d048943f7778384_hbovodhd/dash0/IDN_index.mpd

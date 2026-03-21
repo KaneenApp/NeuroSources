@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1,beIN Sports 1 HD AR
+http://sportk.online/BEIN-SPO-1/video.m3u8
+#EXTINF:-1,beIN Sports 2 HD AR
+http://sportk.online/BEIN-SPO-2/video.m3u8
+#EXTINF:-1,beIN Sports 3 HD AR
+http://sportk.online/BEIN-SPO-3/video.m3u8
+#EXTINF:-1,beIN Sports 4 HD AR
+http://sportk.online/BEIN-SPO-4/video.m3u8
+#EXTINF:-1,beIN Sports 5 HD AR
+http://sportk.online/BEIN-SPO-5/video.m3u8
+#EXTINF:-1,beIN Sports 6 HD AR
+http://sportk.online/BEIN-SPO-6/video.m3u8
+#EXTINF:-1,beIN Sports 7 HD AR
+http://sportk.online/BEIN-SPO-7/video.m3u8
+#EXTINF:-1,beIN Sports 8 HD AR
+http://sportk.online/BEIN-SPO-8/video.m3u8
+#EXTINF:-1,beIN Sports 9 HD AR
+http://sportk.online/BEIN-SPO-9/video.m3u8
+#EXTINF:-1,beIN Sports 1 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2499/index.m3u8
+#EXTINF:-1,beIN Sports 2 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2500/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD FR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2501/index.m3u8
+#EXTINF:-1,beIN Sports Max 1 FHD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19062/index.m3u8
+#EXTINF:-1,beIN Sports Max 2 FHD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19063/index.m3u8
+#EXTINF:-1,beIN Sports Haber HD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19064/index.m3u8
+#EXTINF:-1,beIN Sports Max 2 HD TR
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/19066/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6123/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6124/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6125/index.m3u8
+#EXTINF:-1,beIN Sports 5 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6126/index.m3u8
+#EXTINF:-1,beIN Sports 6 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6127/index.m3u8
+#EXTINF:-1,beIN Sports 7 HD QA
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6128/index.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" group-title="SPORTS",BeIN Sports 2
+http://135.125.109.73:9000/beinsport2_.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" group-title="SPORTS",BeIN Sports 3
+#EXTINF:-1,beIN SPORTS 1
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/adaptive.m3u8
+#EXTINF:0,BEIN NEWS
+#EXTVLCOPT:http-user-agent=Lavf/58.76.100
+http://loadserver.ddns.net:25461/live/live/782217211/7c207ced7/2115.m3u8
+#EXTINF:0,Bein sport 1 HD
+#EXTINF:-1,beIN SPORTS 1  A
+http://213.199.33.203:8081/live/ch1.m3u8
+#EXTINF:-1,beIN SPORTS 1  B
+http://xmrcars.org:8080/bn1hd/mono.m3u8
+#EXTINF:-1,beIN SPORTS 1  C
+http://ps.vibertv.cyou/bein.m3u8
+#EXTINF:-1,beIN SPORTS 2 A
+http://213.199.33.203:8081/live/ch2.m3u8
+#EXTINF:-1,beIN SPORTS 2  B
+http://xmrcars.org:8080/bn2hd/mono.m3u8
+#EXTINF:-1,beIN SPORTS 2  C
+https://tv-kidn.ravynerinnn.workers.dev/playlist.m3u8?id=196158
+#EXTINF:-1,beIN SPORTS 3 A 
+http://213.199.33.203:8081/live/ch3.m3u8
+#EXTINF:-1,beIN SPORTS 3  B
+http://xmrcars.org:8080/bn3hd/mono.m3u8
+#EXTINF:-1,beIN SPORTS 4
+http://213.199.33.203:8081/live/ch4.m3u8
+#EXTINF:-1,Bein Sport1
+http://h42.reelpush.online/live/918454578001/index.m3u8
+#EXTINF:-1,Bein Sport2
+http://h42.reelpush.online/live/69854211/index.m3u8
+#EXTINF:-1,Bein Sport3
+http://h42.reelpush.online/live/645587700/index.m3u8
+#EXTINF:-1,Bein Sport4
+http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:-1,Bein Sport5
+http://h42.reelpush.online/live/610303030/index.m3u8
+#EXTINF:-1,Bein Sport6
+http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:-1,Bein Sport7
+http://h42.reelpush.online/live/33523510/index.m3u8
+#EXTINF:-1,Beinsport 8 
+http://h42.reelpush.online/live/996251000/index.m3u8
+#EXTINF:-1,Bein SportExtera1
+http://h42.reelpush.online/live/33523510/index.m3u8
+#EXTINF:-1,Bein SportExtera2
+http://h42.reelpush.online/live/500021000/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORT",beIN Sports 1 HD
+http://h42.reelpush.online/live/918454578/index.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORT",beIN Sports 1 SD
+http://h42.reelpush.online/live/978488877/index.m3u8
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="BEIN SPORT",beIN Sports 1 LOW
+http://h42.reelpush.online/live/31009988/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEIN SPORT",beIN Sports 2 HD
+http://h42.reelpush.online/live/69854211/index.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEIN SPORT",beIN Sports 2 SD
+http://h42.reelpush.online/live/10011244/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 2 LOW
+http://h42.reelpush.online/live/4798998070/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORT",beIN Sports 3 HD
+http://h42.reelpush.online/live/645587700/index.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORT",beIN Sports 3 SD
+http://h42.reelpush.online/live/161988840/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 3 LOW
+http://h42.reelpush.online/live/551818447/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORT",beIN Sports 4 HD
+http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORT",beIN Sports 4 SD
+http://h42.reelpush.online/live/0103088447/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 4 LOW
+http://h42.reelpush.online/live/131326625/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORT",beIN Sports 5 HD
+http://h42.reelpush.online/live/610303030/index.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORT",beIN Sports 5 SD
+http://h42.reelpush.online/live/115451004/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 5 LOW
+http://h42.reelpush.online/live/181818444/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORT",beIN Sports 6 HD
+http://h42.reelpush.online/live/1515000000/index.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORT",beIN Sports 6 SD
+http://h42.reelpush.online/live/788550011/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports 6 LOW
+http://h42.reelpush.online/live/9883322/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 1 HD
+http://h42.reelpush.online/live/33523510/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORT",beIN Sports FR 1 LOW
+http://h42.reelpush.online/live/79247621/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Bein sport 1 
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch1/ch1_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 2
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch2/ch2_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 3
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch3/ch3_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 4
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch4/ch4_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 5
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch5/ch5_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 6
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch6/ch6_1080.m3u8
+#EXTINF:-1 tvg-name="Bein sport 7
+https://stream.supertv.gg:3009/supertv/sport/stv12/ch7/ch7_1080.m3u8
+
+#EXTINF:0,BEIN SPORTS 1 (720PFEED)
+https://vavoo.to/live2/play3/2233066433.m3u8
