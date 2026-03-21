@@ -2,37 +2,26 @@ name: Auto Update ✪ royaaa M3U
 
 on:
   schedule:
-    - cron: '0 * * * *'  # كل ساعة
-  workflow_dispatch:    # يمكن تشغيله يدويًا
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Generate M3U
-        run: python royaaa.py
-
-      - name: Commit & Push changes
-        run: |
+      - run: pip install requests beautifulsoup4
+      - run: python royaaa.py
+      - run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          if [ -f royaaa.m3u ]; then
-            git add royaaa.m3u
-            git commit -m "Auto update royaaa.m3u" || echo "No changes to commit"
-            git pull --rebase
-            git push
-          else
-            echo "royaaa.m3u does not exist, skipping commit."
-          fi
+          git add -A
+          git commit -m "Auto update royaaa.m3u" || echo "No changes"
+          git push

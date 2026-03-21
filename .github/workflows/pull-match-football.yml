@@ -1,40 +1,27 @@
-name: Pull MATCH! Football (every 5 min)
+name: Auto Update ✪ Pull Match Football
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
-concurrency:
-  group: pull-match-football
-  cancel-in-progress: true
-
 jobs:
-  update-premierleague:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python 3.11
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Run updater script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEST_RAW_URL: "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u"
-          GITHUB_REPO: "kakagoosse856/1221554"
-          GITHUB_BRANCH: "main"
-          DEST_REPO_PATH: "premierleague.m3u"
-          COMMIT_MESSAGE: "chore: update premierleague URLs (Match!/TNT/Sky)"
-        run: python pull_channels_and_update.py
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python pull_channels_and_update.py
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          git commit -m "Auto update premierleague.m3u" || echo "No changes"
+          git push
