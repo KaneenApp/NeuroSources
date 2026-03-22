@@ -1,23 +1,23 @@
 # 📺 قنوات IPTV مع EPG
 
-آخر تحديث: 2026-03-21 12:48:42
+آخر تحديث: 2026-03-22 05:13:18
 
 ## 📋 روابط التحميل
 
 🔗 **ملف M3U:**
 ```
-https://raw.githubusercontent.com/kakagoosse856/1221554/main/playlist.m3u
+https://raw.githubusercontent.com/KaneenApp/NeuroSources/main/playlist.m3u
 ```
 
 🔗 **ملف EPG:**
 ```
-https://raw.githubusercontent.com/kakagoosse856/1221554/main/epg.xml
+https://raw.githubusercontent.com/KaneenApp/NeuroSources/main/epg.xml
 ```
 
 ## 📊 الإحصائيات
 
 - عدد القنوات: 2
-- حجم ملف EPG: 30.5 KB
+- حجم ملف EPG: 30.6 KB
 - تم تحميل EPG: 2 نجاح, 1 فشل
 - حالة التحديث: تلقائي كل 6 ساعات
 
