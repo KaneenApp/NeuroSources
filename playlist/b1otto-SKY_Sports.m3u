@@ -2,35 +2,35 @@
 #=================================
 # Developed By: OMNIX EMPIER
 # IPTV Telegram Channels: https://t.me/omnix_Empire
-# Last Updated: 2026-03-28 01:58 PM (BD Time)
+# Last Updated: 2026-03-28 03:55 PM (BD Time)
 # TV channel counts :- 66
 #==================================
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773817332673-729563171.webp" group-title="Cricket - (Upcoming)",Victoria VS South Australia [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69ba4df7e0409919642c3510
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774012493970-701187331.webp" group-title="Cricket - (Live)",Armed Police Force Club VS Tribhuvan army Club [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69bd484fbdea5aec302a95eb
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774012680284-47651977.webp" group-title="Cricket - (Live)",Nepal Police Club VS Gandaki Province [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd490bf77efcba7bc9b2e3
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774012493970-701187331.webp" group-title="Cricket - (Live)",Armed Police Force Club VS Tribhuvan army Club [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69bd484fbdea5aec302a95eb
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409247162-320458787.webp" group-title="Cricket - (Live)",Meerut Cant Commandos VS Shubham Smashers [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b413e175a94bf857f32b1e
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409289781-513486223.webp" group-title="Cricket - (Live)",Meerut Civil Line Heroes VS Meerut South Warriors [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b4140b020fc1ba94d8b9a1
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461851849-541880758.webp" group-title="Cricket - (Live)",Northern District VS Central Stags [Live]
-https://sportsbd.top/demo/styxsportm3u8.php?id=691c4ade24f2af2c8dfdcc3b
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461802900-394722268.webp" group-title="Cricket - (Live)",Auckland Aces VS Canterbury Kings [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4aacfd87c2948fb480b7
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461952149-874646022.webp" group-title="Cricket - (Live)",Otago VS Wellington Firebirds [Live]
 https://sportsbd.top/demo/styxsportm3u8.php?id=691c4b42fa673af67ab1732b
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774013048963-557087285.webp" group-title="Cricket - (Upcoming)",Tribhuvan army Club VS Bagmati Province [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4a7ba9478b733552d834
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1763461851849-541880758.webp" group-title="Cricket - (Live)",Northern District VS Central Stags [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=691c4ade24f2af2c8dfdcc3b
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773817332673-729563171.webp" group-title="Cricket - (Live)",Victoria VS South Australia [Live]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69ba4df7e0409919642c3510
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774012998354-99932549.webp" group-title="Cricket - (Upcoming)",Gandaki Province VS Armed Police Force Club [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4a4af7ef5df6e9307461
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774013048963-557087285.webp" group-title="Cricket - (Upcoming)",Tribhuvan army Club VS Bagmati Province [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4a7ba9478b733552d834
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1773409331585-903333501.webp" group-title="Cricket - (Upcoming)",Meerut Cant Commandos VS Saket Royal Champs [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69b4143575a94bf857f32b1f
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774013192586-902318565.webp" group-title="Cricket - (Upcoming)",Lumbini Province VS Sudur Paschim Province [Upcoming]
-https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4b0aad13c7c680cd6198
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774013110387-841067515.webp" group-title="Cricket - (Upcoming)",Madhesh Province VS Karnali Province [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4ab9ad13c7c680cd6197
+#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774013192586-902318565.webp" group-title="Cricket - (Upcoming)",Lumbini Province VS Sudur Paschim Province [Upcoming]
+https://sportsbd.top/demo/styxsportm3u8.php?id=69bd4b0aad13c7c680cd6198
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774186927862-643760626.webp" group-title="Cricket - (Upcoming)",Omrchecker VS Century CC [Upcoming]
 https://sportsbd.top/demo/styxsportm3u8.php?id=69bff1b1a9478b733552d83d
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1774186969595-525154685.webp" group-title="Cricket - (Upcoming)",Ashtapailu Sports VS Elite CC [Upcoming]
