@@ -463,9 +463,29 @@
     <desc>Tohru declines Arisa and Saki's invite to spend New Year's Eve with them, even when she has no family to celebrate with.</desc>
     <date>2026-04-03</date>
   </programme>
-  <programme channel="369848" start="20260403220000 +0700" stop="20260404000000 +0700">
+  <programme channel="369848" start="20260403220000 +0700" stop="20260403223000 +0700">
     <title lang="zh">WITCH WATCH</title>
     <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
     <date>2026-04-03</date>
+  </programme>
+  <programme channel="369848" start="20260403223000 +0700" stop="20260403230000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-04-03</date>
+  </programme>
+  <programme channel="369848" start="20260403230000 +0700" stop="20260403233000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>Being the villainess, she makes it her priority to know the heroine, and sneaks into the Magic Academy to investigate.</desc>
+    <date>2026-04-03</date>
+  </programme>
+  <programme channel="369848" start="20260403233000 +0700" stop="20260404000000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>Alicia becomes Liz's overseer, gains the top villainess role as the Saintess' rival, and enrols in the Magic Academy.</desc>
+    <date>2026-04-03</date>
+  </programme>
+  <programme channel="369848" start="20260404000000 +0700" stop="20260405000000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Tohru is summoned to the Soma family estate, where she is advised by Hatori to stop associating with the Soma clan.</desc>
+    <date>2026-04-04</date>
   </programme>
 </tv>
