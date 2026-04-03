@@ -463,9 +463,29 @@
     <desc>The final set finally hits to 20 points. Both teams have different fighting concepts. Which of them will win?</desc>
     <date>2026-04-04</date>
   </programme>
-  <programme channel="369848" start="20260404215600 +0700" stop="20260405000000 +0700">
+  <programme channel="369848" start="20260404215600 +0700" stop="20260404222600 +0700">
     <title lang="zh">HAIKYU!! 4TH SEASON</title>
     <desc>Preparing for the Nationals, Kageyama and Tsukishima are invited to training camps while Hinata sneaks into one.</desc>
     <date>2026-04-04</date>
+  </programme>
+  <programme channel="369848" start="20260404222600 +0700" stop="20260404230000 +0700">
+    <title lang="zh">HAIKYU!! 4TH SEASON</title>
+    <desc>Hinata sneaks into the first-year only prefecture-wide training camp. Shiratorizawa's seniors have come to the camp.</desc>
+    <date>2026-04-04</date>
+  </programme>
+  <programme channel="369848" start="20260404230000 +0700" stop="20260404233000 +0700">
+    <title lang="zh">THE VEXATIONS OF A SHUT-IN VAMPIRE PRINCESS</title>
+    <desc>Komari defeats Millicent with Rekkaku Liberation. She then meets one of the Seven Crimson Skies at the castle.</desc>
+    <date>2026-04-04</date>
+  </programme>
+  <programme channel="369848" start="20260404233000 +0700" stop="20260405000000 +0700">
+    <title lang="zh">THE VEXATIONS OF A SHUT-IN VAMPIRE PRINCESS</title>
+    <desc>The Seven Crimson Skies council questions whether Komari is fit enough; Flote suggests a battle to make a decision.</desc>
+    <date>2026-04-04</date>
+  </programme>
+  <programme channel="369848" start="20260405000000 +0700" stop="20260406000000 +0700">
+    <title lang="zh">THE VEXATIONS OF A SHUT-IN VAMPIRE PRINCESS</title>
+    <desc>Komari allies with Sakuna for the Clash of the Seven Crimson Skies, unaware she is a spy for the Inverted Moon.</desc>
+    <date>2026-04-05</date>
   </programme>
 </tv>
