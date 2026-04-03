@@ -129,6 +129,8 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/a
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 TNT Sports | SERVER 1",🇺🇸 TNTV
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🥊 UFC Fight Pass | SERVER 1",🥊 Alwan UFC 4K
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://b1.cdntv.online/high/9mlxywika2/381.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 -1 tvg-idPersianaDocsfrHDPersiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 5H tvg-logohttpsiibbcoBPpZPBnartepng group-titleFranceARTE -05H
@@ -249,8 +251,6 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Gawhar.m3u8
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 Hormizyar Tv
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Hormizyar.m3u8
-#EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 ISHTAR TV
-http://ishtartv.badinan.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 Infinity Tv
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Infinity.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 KANAL 7 AVRUPA
@@ -283,8 +283,6 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Mtv_Music.m3u8
 https://edge11.vedge.infomaniak.com/livecast/ik:naradio/manifest.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 NEXT
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Next.m3u8
-#EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 NEXT TV
-https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 NR 1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 NR 1 TV
@@ -371,8 +369,6 @@ https://cdn.live.easybroadcast.io/abr_corp/54_tvr_vtucuxt/playlist.m3u8
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Uk4.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 Utv Badini
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Utv_Duhok.m3u8
-#EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 Welat TV 1080i
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 ZNAR HD
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Znar.m3u8
 #EXTINF:-1 group-title="🇦🇪 أبوظبي الرياضية | SERVER 1",🇦🇪 Zarok Kurmançi
@@ -607,14 +603,8 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubuser
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/645587700/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 1080P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 1080P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 1080P A
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv2/ch2/ch2_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/69854211/index.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 HD
 http://ps.vibertv.cyou:8080/viber_tv/beTOD4H2.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 2 HD
@@ -625,10 +615,10 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubuser
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/645587700/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 1080P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv3/ch3/ch3_1080.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 1080P A
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv3/ch3/ch3_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/645587700/index.m3u8
+#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 720P
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv3/ch3/ch3_720.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 HD
 http://ps.vibertv.cyou:8080/viber_tv/beTOD4H3.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 3 HD
@@ -637,6 +627,8 @@ http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b3all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 4 1080P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/9787488847/index.m3u8
+#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 4 1080P
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv4/ch4/ch4_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 4 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/9787488847/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 4 HD
@@ -645,6 +637,8 @@ http://ps.vibertv.cyou:8080/viber_tv/beTOD4H4.m3u8
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b4all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 5 1080P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
+#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 5 1080P
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv5/ch5/ch5_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 5 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 5 720P
@@ -659,8 +653,6 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.on
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv6/ch6/ch6_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 6 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/1515000000/index.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 6 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv6/ch6/ch6_720.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 6 HD
 http://ps.vibertv.cyou:8080/viber_tv/beTOD4H6.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 Bein Sport 6 جودة تلقائية
@@ -713,10 +705,6 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60034_.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 BeinSport 2SD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60014_.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 BeinSport 3HD
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60035_.m3u8
-#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 BeinSport 3SD
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60015_.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 BeinSport 4HD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60036_.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 BeinSport 4SD
@@ -813,8 +801,10 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/a
 http://apk.arabic-ch.space/live/077/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 bein drama
 http://apk.arabic-ch.space/live/072/index.m3u8
+#EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 bein movies1
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://apk.arabic-ch.space/live/076/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 1",🇶🇦 bein movies3
-http://apk.arabic-ch.space/live/078/index.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 3",🇶🇦 AR beIN
 http://off17.lynxcontents.click:2086/live/1396247314/69a791bdf25c4/196157.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت | SERVER 4",🇶🇦 beIN SPORTS 3 HD
@@ -867,8 +857,6 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 A2 ᵁᴴᴰ
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 AFRIN KIDS
-http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 AFRIN TV FHD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 ALA
@@ -1011,10 +999,16 @@ https://ciner-live.ercdn.net/htspor/htspor.m3u8
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 2
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-2/index.m3u8
-#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 3
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-3/index.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 4
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 5
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 6
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 7
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 Hub Sports 8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 K24 FHD
@@ -1101,6 +1095,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 SPI TV۞
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 SPIQURANHD۞
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 SPORT Thamanih 1
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportfet.shop/THMANYH--1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 SPORT Thamanih 2
@@ -1139,6 +1135,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 sbc
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 spi kids 4k۞
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 سوريا
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="📡 رياضية عامة | SERVER 1",📡 سوريا
