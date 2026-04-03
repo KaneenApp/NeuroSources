@@ -24,7 +24,7 @@ https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 group-title="🇬🇧 BT Sport" tvg-logo="" ,Halab Today TV 1080p
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 BT Sport" tvg-logo="" ,KTV News 1080p
-https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇬🇧 BT Sport" tvg-logo="" ,MAURIENNE TV
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/twitch/hls/MaurienneTV.m3u8
 #EXTINF:-1 group-title="🇬🇧 BT Sport" tvg-logo="" ,Minara TV
@@ -70,7 +70,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://169.150.223.25/
 #EXTINF:-1 group-title="🇪🇺 Eurosport" tvg-logo="" ,Eurosport
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://87.246.54.249:8080/Eurosport/index.m3u8
 #EXTINF:-1 group-title="🇪🇺 Eurosport" tvg-logo="" ,Eurosport 1
-http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/141/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 group-title="🇪🇺 Eurosport" tvg-logo="" ,Eurosport 1 FHD DE
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15179/index.m3u8
 #EXTINF:-1 group-title="🇪🇺 Eurosport" tvg-logo="" ,Eurosport 1 FHD orig
@@ -479,11 +479,11 @@ https://raw.githubusercontent.com/s48139104-netizen/IPTV3/refs/heads/main/Bein.1
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 1 1080P
 https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 1 4K
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn44k/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn14k/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 1 HD
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn4hd/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn1hd/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 1 hevc
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn1hevc/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://afcocafot.com:8080/bn4hevc/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 2
 https://raw.githubusercontent.com/s48139104-netizen/IPTV3/refs/heads/main/Bein.2.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,BEIN Sports 2 1080P
@@ -557,15 +557,15 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Premium 3HD
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://polished-snow-3145.meryemmh24.workers.dev/live/60032_.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 1080P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/69854211/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 1080P A
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 4K
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou:2095/viber_tv/beTOD4K1.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://het114c.ycn-redirect.com/live/918454578001/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/918454578001/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 HD
-http://ps.vibertv.cyou:8080/viber_tv/beTOD4H1.m3u8
+http://xmrcars.org:8080/bn1hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 1 جودة تلقائية
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b1all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 2 1080P
@@ -577,7 +577,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 2 720P
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 2 HD
-http://xmrcars.org:8080/bn2hd/tracks-v1a1/mono.m3u8
+http://ps.vibertv.cyou:8080/viber_tv/beTOD4H2.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 2 جودة تلقائية
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b2all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 3 1080P
@@ -587,13 +587,13 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 3 4K
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou:2095/viber_tv/beTOD4K3.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 3 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/645587700/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://het134c.ycn-redirect.com/live/645587700/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 3 HD
 http://xmrcars.org:8080/bn3hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 3 جودة تلقائية
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b3all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 4 1080P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/9787488847/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv4/ch4/ch4_1080.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 4 4K
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou:2095/viber_tv/beTOD4K4.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 4 720P
@@ -603,11 +603,11 @@ http://ps.vibertv.cyou:8080/viber_tv/beTOD4H4.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 4 جودة تلقائية
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/kiraomar/Primetv/refs/heads/main/b4all.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 5 1080P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv5/ch5/ch5_1080.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/610303030/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 5 4K
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou:2095/viber_tv/beTOD4K5.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 5 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://het131a.ycn-redirect.com/live/610303030/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://stream.supertv.gg:3002/supertv/sport/stv5/ch5/ch5_720.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 5 HD
 http://ps.vibertv.cyou:8080/viber_tv/beTOD4H5.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 5 جودة تلقائية
@@ -617,7 +617,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.on
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 6 4K
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ps.vibertv.cyou:2095/viber_tv/beTOD4K6.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 6 720P
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://het126c.ycn-redirect.com/live/1515000000/index.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://h42.reelpush.online/live/1515000000/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 6 HD
 http://ps.vibertv.cyou:8080/viber_tv/beTOD4H6.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sport 6 جودة تلقائية
@@ -723,7 +723,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://sport.alamna.l
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN Drama QA
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6137/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 1
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/shoottvlivef/xpola-player/54c2e61b474a0c501dcf894dbd34a27f13d2a905/iraqSli2.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportfet.shop/BEIN-S1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 1 4K
 http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 1 A
@@ -733,13 +733,13 @@ http://167.71.41.149/b1fhd/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 1 D
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/adaptive.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 2
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/shoottvlivef/xpola-player/refs/heads/main/iraqSli2.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportook.online/BEIN-S22/video.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 2 4K
 http://xmrcars.org:8080/bn24k/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 2 A
 http://213.199.33.203:8081/live/ch2.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 3
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportook.online/BEIN-S3/video.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportfet.shop/BEIN-S3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 3 4K
 http://xmrcars.org:8080/bn34k/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 3 A
@@ -751,9 +751,9 @@ http://213.199.33.203:8081/live/ch4.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 5
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://man1ted.com/be5/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 6
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/shoottvlivef/xpola-player/refs/heads/main/iraqSli6.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://man1ted.com/be6/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 7
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportfet.shop/BEIN-S7/tracks-v1a1/mono.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://raw.githubusercontent.com/shoottvlivef/xpola-player/refs/heads/main/iraqSli7.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 8
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportfet.shop/BEIN-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN SPORTS 9
@@ -763,7 +763,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/a
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN Sports 1 HD EN
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6132/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN Sports 1 HD QA
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6123/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN Sports 1 Premium HD QA
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6131/index.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,beIN Sports 1 SD
@@ -1104,7 +1104,7 @@ http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://alwan6hd.gotvm
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ARYAN TV
 https://aryen.tv/live/tv/chunklist_w1310383755.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ATVSat 1080p Not 24 7
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AVA SPORT ته نها ئە وروپا
@@ -1262,13 +1262,13 @@ https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Korea 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/222839.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Mosalsalat 4K
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/222229.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/222838.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Quran 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/222843.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 1 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod1k.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 1 HD
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod1h.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/39faa78a1e9a/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 1 SD
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod1S.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 10 4K
@@ -1276,13 +1276,13 @@ https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://s3.new
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 2 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod2k.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 2 HD
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod2h.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/8dd8ad49bb05/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 2 SD
 http://ps.vibertv.cyou:8880/viber_tv/alwtod2S.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 3 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod3k.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 3 HD
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://stream.camcloud.stream/stream/075f2d3a2988/playlist.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod3h.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 3 SD
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod3S.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 4 4K
@@ -1294,7 +1294,7 @@ https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibe
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 5 4K
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod5k.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 5 HD
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://falcon.ravynerinnn.workers.dev/live/kidntv/kidntv/222235.m3u8
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod5h.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 5 SD
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=http://ps.vibertv.cyou:8880/viber_tv/alwtod5S.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Alwan Sport 6 4K
@@ -1430,7 +1430,7 @@ https://dkaiai6digij6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BIR TV
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BLK Regional TV
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BODRUM KENT TV
 https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BOX SportCast HD
@@ -1516,7 +1516,7 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BİR TV
 https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CANAL 32
-https://edge17.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://video.vedge.infomaniak.com/livecast/canal32_4/manifest.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CAY TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CBC 576p
@@ -1622,7 +1622,7 @@ https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Docu
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DREAM TURK
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DUHOK HD
@@ -1630,7 +1630,7 @@ https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Duhok.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DUHOK SPORT FHD
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Duhok_Sport.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DUHOK TV
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DW Arabic
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,DW Arabic 1080p
@@ -1726,7 +1726,7 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/144/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Extreme Sports HD
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/20028/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,FALCON 1
-http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://het000.4rouwanda-shop.store/live/978480008877005/index.m3u8
+https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Falcon1.m3u8?|referer=https://veo.buzz/
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,FALCON 2
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Falcon2.m3u8?|referer=https://veo.buzz/
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,FALCON 3
@@ -2002,7 +2002,7 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,KANAL 7 AVRUPA
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,KANAL ADA
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,KANAL AVRUPA
@@ -2138,7 +2138,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15198/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,MBC 4 AE
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15199/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,MDF 1
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,MDR Fernsehen Sachsen Anhalt Geo blocked
@@ -2260,7 +2260,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NEXT
 https://raw.githubusercontent.com/stvplus1/LOCAL/refs/heads/main/Next.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NEXT TV
-https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
+http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NIROJ HD
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NIROJ QURAN
@@ -2348,7 +2348,7 @@ http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8#20e7b96a80ea54589ef
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Nuber TV
 http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8#20e7b96a80ea54589ef41ed317d0adb5d1fdf08c75397defbf1607b6b5f83f81
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,OK Dessau
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,OK Gießen Geo blocked
@@ -2414,7 +2414,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,POWER TURK TAPTAZE
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,POWER TV AKUSTiK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PREMIERE 1 HD
@@ -2434,7 +2434,7 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/p
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PUNKTum Fernsehen
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Palestine Al Yawm 720p
-https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Palestine Today 480p Geo blocked
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Persiana Cinema
@@ -2532,7 +2532,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playl
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RAKUTEN TOP FILMS TV
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RAN1
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RASAN HD
 http://109.71.252.138/Rasantvyusfstore/index.m3u8?token=hnaKCXHetrygerteL5cys1
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RAVAND HD
@@ -2542,13 +2542,13 @@ http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RBB Brandenburg Geo blocked
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RBW
-http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RED لبنان
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,REHBER TV
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RFH
-https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RFO
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,RIZE TURK HD
@@ -2744,11 +2744,11 @@ http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/6542/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Setanta Sports FHD UA
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/272/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Setanta Sports HD UA
-http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/31755/index.m3u8
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/31757/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Setanta Sports HD UA orig
-http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15183/index.m3u8
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/15184/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Setanta Sports UA
-http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/31756/index.m3u8
+http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/31754/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Shahid Sports 1
 http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://sportkn.store/SHAHID-EVENT-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Shahid Sports 2
@@ -2880,7 +2880,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TEVE2 UHD
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TGRT HABER
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TH TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TIVI 6
@@ -3124,7 +3124,7 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Xsport HD UA
 http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/996/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,YAS Sports AE
-http://8a94bd8e.amazzin.pw/iptv/V57A5TWNAYHS5G/2511/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2511/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w469474030_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ZAROK TV
@@ -3258,7 +3258,7 @@ http://185.9.2.18/chid_327/mono.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,liner
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,master
-https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
+https://239f8b77.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfV1BfSExT/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,mbc 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,mbc 2
@@ -3440,7 +3440,7 @@ http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26039.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الاولى
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/26034.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,البحرين
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,البوادي
 https://ffs1.gulfsat.com/Al-Bawadi/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الثانية
@@ -3490,7 +3490,7 @@ https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الشلال
 http://185.9.2.18/chid_659/mono.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الصفوه
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201930.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201925.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الظّفرة
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,العالم الكبير
@@ -3528,7 +3528,7 @@ https://kwtsplta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,المسار
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,المصريه
-https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,المملكة
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الميادين
@@ -3542,13 +3542,13 @@ https://stream.alnahrain.tv/AlnahrainTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,الهيبة
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,اليوم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201926.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,باب الحاره
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,بانوراما فيلم
 http://185.160.192.64/live/david22/9189/22934.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,براعم
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71249.m3u8
+http://apk.arabic-ch.space/live/078/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,بهاء
 http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,بيئة شامية
@@ -3606,7 +3606,7 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,سلام
 https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,سوريا
-https://linear-887.frequency.stream/mt/documentaryplus/887/hls/master/playlist.m3u8?1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,سوريا one
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,سوريا الثانيه
@@ -3656,7 +3656,7 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,مجتمعي
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/mojtamaii/playlist.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,مرايا
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,مرايا اطفال
 https://live.kwikmotion.com/smckidslive/tjkids1.smil/smckidspublish/tjkids1_source/chunks.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,مسرحيات
@@ -3686,7 +3686,7 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ياهلا
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201892.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ياهلا افلام
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201894.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201924.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,کەناڵی ئامۆژگاری۞
 https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,۞ئەکادیمیای ئامۆژگاری
@@ -4112,7 +4112,7 @@ http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19158/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,EXXEN SPOR 1
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/19077/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Eleven Sports 1 HD PL
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2518/index.m3u8
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/6083/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Eleven Sports 1 HD PT
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2531/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Eleven Sports 2 HD PL
@@ -4320,9 +4320,9 @@ http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/15235/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 1 HD DE
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2503/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 1 HD LT
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2549/index.m3u8
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/6367/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 1 LT
-http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/2548/index.m3u8
+http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/6366/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 2 Baltic
 http://45.156.223.202/iptv/C9SB9TDVBHF53QEWEV82E3B9/15236/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 2 HD CZ
@@ -4985,7 +4985,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/22022.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,DAZN UK Event 44
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/22023.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,DAZN UK Event 45
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/22025.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/22024.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,DAZN UK Event 46
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/22026.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,DAZN UK Event 47
@@ -5075,7 +5075,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10484.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,Spain Dazn 3
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10485.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,Spain Dazn 4
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4197.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10486.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,Spain Dazn Formula 1 HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10400.m3u8
 #EXTINF:-1 group-title="🌍 DAZN" tvg-logo="" ,Spain MOVISTAR Dazn La Liga
@@ -5498,15 +5498,15 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10779.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 1 HD DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3928.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 10 DE
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10792.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3937.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 2 HD DE
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3929.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10784.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 3 DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3930.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 3 HD DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10785.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 4 DE
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10786.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3931.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 5 DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3932.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 6 DE
@@ -5514,7 +5514,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3933.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 7 DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3934.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 8 DE
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3935.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10790.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport Bundesliga 9 DE
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10791.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Germany Sky Sport F1HD DE
@@ -5806,7 +5806,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/19572.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Sports Plus Event 4
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/19607.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Sports Plus Event 40
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/19571.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/20625.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Sports Plus Event 41
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/20624.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Sports Plus Event 42
@@ -6070,7 +6070,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/190.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,UKSD Sky Cinema SciFi
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/189.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,UKSD Sky Cinema Select Feel Good
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3005.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/188.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,UKSD Sky Cinema Thriller
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/187.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,UKSD Sky Comedy
@@ -6280,9 +6280,9 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4666.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,Bein Sports L PREMIUM 03 SD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4680.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,EN beIN SPORTS 1 EN FHD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3206.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4656.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,EN beIN SPORTS 1 EN HD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4161.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4676.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,EN beIN SPORTS 1 EN SD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4689.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,EN beIN SPORTS 2 EN FHD
@@ -7257,7 +7257,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/17030.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Ayr
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/20589.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BBC Red Button 1
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6560.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6559.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Basketball: No 5 Breeze vs No 2 Mist Mar 2 20:45 PM :MAX US 03
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/21364.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Basketball: No 6 Vinyl vs No 1 Phantom Mar 2 19:00 PM :MAX US 02
@@ -7549,7 +7549,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/2445.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA:HGTV HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/2444.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA:HLN
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/2441.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/2442.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA:History HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/2440.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA:ICI RDI HD
@@ -10639,11 +10639,11 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10618.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 1
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3137.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 1 FHD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3135.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10693.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 1 HD 720P
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3136.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 2
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10697.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3139.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 2 FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10696.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 3
@@ -10651,9 +10651,9 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3141.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 3 FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10698.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 4
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3142.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10700.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sport TV 5
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3143.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10701.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal Sporting TV HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10692.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Portugal TLC
@@ -11367,17 +11367,17 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10468.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 3
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3997.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 4
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10471.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3998.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 5
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10472.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 6
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4000.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 7
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10474.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4001.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 8
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10475.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA 9
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4003.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10476.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10386.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LA LIGA HD Backup 1
@@ -11405,17 +11405,17 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10464.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 16
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10465.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 2
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3986.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10394.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 2 FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3988.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 2 FHD 1080P
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10451.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 3
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10452.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3989.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 5
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3991.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 6
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10455.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3992.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 7
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3993.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES 8
@@ -11425,13 +11425,13 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10458.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES Backup 2
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10393.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES HD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3985.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10391.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA CAMPEONES HD Backup 1
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10392.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR LIGA DE CAMPEONES 4
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3990.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MOVISTAR TOROS HD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3982.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10384.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain MTV ESP
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10441.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Mirame TV
@@ -11441,19 +11441,19 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10375.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Comedia HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10382.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 1 SOLO EVENTOS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10442.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4005.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 2 SOLO EVENTOS
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4006.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 3 SOLO EVENTOS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4007.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10444.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 4 SOLO EVENTOS
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10445.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 5 SOLO EVENTOS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4009.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10446.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 6 SOLO EVENTOS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4010.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10447.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar DEPORTE 7 SOLO EVENTOS
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10448.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4011.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Deportes FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10397.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Deportes HD
@@ -11467,7 +11467,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10379.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Fest
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10294.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Futbol HD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3977.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10390.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Golf HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3978.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Moto GP HD SOLO EVENTOS
@@ -11483,7 +11483,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10378.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Vamos FHD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10396.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain Movistar Vamos HD
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10395.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/3980.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain NAT GEO WILD HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/10417.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spain NEOX
@@ -12101,7 +12101,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1646.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UKFHD BBC One North West
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1647.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UKFHD BBC One Northern Ireland
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1648.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/14237.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UKFHD BBC One South
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1651.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UKFHD BBC One South East
@@ -12741,7 +12741,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/19682.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ULSTER GAA 03 Kilcoo Down v Scotstown Monaghan
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/18098.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ULSTER GAA 04 Ballinderry Derry v Derrylaughan Tyrone
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/18100.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/18099.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ULSTER GAA 05 Carey Faughs Antrim v Castleblayney Monaghan
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/18101.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ULSTER GAA 06
@@ -14067,7 +14067,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1370.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FOX BUSINESS HD
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1369.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FOX DEPORTES
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1362.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1347.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FOX NEWS
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1359.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FOX SPORTS 1
@@ -14185,7 +14185,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1270.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MOVIE: STARZ East
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4142.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MSG
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1268.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1269.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MSNBC
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/1267.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MTV
@@ -14869,7 +14869,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6078.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: NDTV 24x7
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6086.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: NTN24
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5927.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5891.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: Newsmax
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6059.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: Newsy
@@ -14921,7 +14921,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6028.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: Top 16 Amazon Channels
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6031.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: TyC Sports
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5917.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/5859.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: UNIVISION TUDN
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/11260.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: UP
@@ -14955,7 +14955,7 @@ http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6089.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: WVIT NBC
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6084.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: World Fishing Network
-http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6075.m3u8
+http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/4127.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: Zoom
 http://unity-gaming.net:8080/live/bpWcgg61/Hd56Sde28/6096.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA: pocket watch
@@ -15396,7 +15396,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165971.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ES ESPN 3 ARG
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165972.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ES ESPN ARG
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165973.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165970.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,NL ESPN 1 4K
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/172693.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,NL ESPN 2 4K
@@ -16030,7 +16030,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/73774.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN BOX OFFICE 2 UHD 4K
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/129265.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN Boomerang HD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71246.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71236.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN CARTOON NETWORK
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71248.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN DRAMA HD
@@ -16086,7 +16086,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/124866.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN SERIES 2 HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71226.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN SPORTS HD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239673.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239672.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN STAR ACTION
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71245.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,AR beIN STAR Movies
@@ -16104,7 +16104,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71229.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,FR BEIN SPORTS 1 FHD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/6431.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,FR BEIN SPORTS 1 FHD H 265
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/47957.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/77904.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,FR BEIN SPORTS 1 HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/5926.m3u8
 #EXTINF:-1 group-title="🇶🇦 بي إن سبورت" tvg-logo="" ,FR BEIN SPORTS 1 SD
@@ -16761,7 +16761,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/154867.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ABEDE LBASAT عبدالباسط عبدالصمد
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/154876.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ABN SAT
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/77671.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238578.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR AD DRAMA HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/69257.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR AD Nat Geo
@@ -16979,7 +16979,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201887.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ART AFLAM2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201888.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ART CINEMA
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201889.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/70323.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ART HEKAYAT 2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/70327.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR ART Hekayat1
@@ -17317,7 +17317,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/239722.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR KSA Sport 1HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/68817.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR KSA Sport 2HD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/68821.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/68818.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR KTV 1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/28119.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR KTV 2
@@ -17547,7 +17547,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/77793.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR Nour Al Koddas
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/161806.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR Nour Al Shabab
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/161807.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/135606.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR Nour Al Sharq
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/161808.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR Nour Mariam
@@ -17999,7 +17999,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/69320.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR TEN TV
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/71410.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR TFC
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201931.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/201939.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR THMANYAH 1ᴴᴰ
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/236894.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AR THMANYAH 1ᶠᴴᴰ
@@ -18231,7 +18231,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/75192.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BE RTL TVI HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/83695.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BE TIPIK HD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/13436.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/145905.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BE VIER FHD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/75196.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BE VIER VRT HD
@@ -18375,7 +18375,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/175652.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA LCN FR
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/175653.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA MOI CIE
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/175655.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/127535.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA Meteo Media Montreal
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/175654.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,CA Planete HD
@@ -19029,7 +19029,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165964.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ES Fox Sports 2 Mx
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165965.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ES Fox Sports 3 Mx
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165984.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/165966.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ES GOL TV ES
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/179917.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ES GOL TV HD
@@ -21057,7 +21057,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/82046.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,GO MBC Bollywood HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/6332.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,GO MBC DRAMA FHD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/82049.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/82043.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,GO MBC DRAMA HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/5656.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,GO MBC MASR 2 FHD
@@ -21985,7 +21985,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/147392.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PPV Ghost ACTION
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/147394.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PPV HBO ACTION 1
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/147377.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/147375.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PPV HBO ACTION 3
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/147378.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,PPV HBO ACTION 4
@@ -22291,7 +22291,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184813.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,SOMALIA Africa TV 2
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184812.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,SOMALIA Africa TV 3
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184811.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184828.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,SOMALIA Africa TV 4
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184810.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,SOMALIA CABLE TV
@@ -22387,7 +22387,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184573.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UGANDA M NET EAST
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184586.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UGANDA M NET MOVIES ACTION AFRICA
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184580.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184574.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UGANDA M NET MOVIES ALL STARS
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/184576.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UGANDA M NET MOVIES PREMIERE AFRICA
@@ -22445,7 +22445,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237567.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK DISCOVERY GET FACTUAL
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237566.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK DISCOVERY HISTORY
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237548.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237559.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK DISCOVERY HISTORY 1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237543.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK DISCOVERY HOT ONES
@@ -22467,7 +22467,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237542.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK DMAX 1
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/237551.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK Discovery Channel HD
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/156643.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/156644.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK Discovery History HD
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/156646.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,UK Discovery ID HD
@@ -22809,7 +22809,7 @@ http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238398.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FanDuel Sports Network West
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238399.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FanDuel Sports Network Wisconsin
-http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238400.m3u8
+http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238401.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FanDuel Sports Network Wisconsin Extra
 http://bouygues-cdn.r1v.us:8080/live/d49dc02ec79b/k5cfhnm1/238402.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA FanDuel TV
@@ -23201,7 +23201,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19166/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ESPN EXTRA HD BR
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19057/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ESPN HD BR
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19056/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19061/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ESPN USA
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19156/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 ESPN" tvg-logo="" ,ESPN2 HD BR
@@ -23381,7 +23381,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7335/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,SKY SPORTS RACING UK
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7341/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,SKY SUPER TENNIS
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19136/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19111/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Arts HD DE
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2494/index.m3u8
 #EXTINF:-1 group-title="🇬🇧 Sky Sports" tvg-logo="" ,Sky Atlantic FHD
@@ -23745,7 +23745,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/1025/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,360
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/825/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,360 HD
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2320/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2065/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,360 HD orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9036/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,360 TV HD LV
@@ -23895,9 +23895,9 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6885/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ATV Gagauzia MD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2459/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ATV HD TR
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6886/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2296/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ATV TR
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2261/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6887/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AXN BR
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6163/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,AXN Black RO
@@ -23953,7 +23953,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9029/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Amedia 2 orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9129/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Amedia Hit
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19218/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/556/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Amedia Hit HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6010/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Amedia Hit HD orig
@@ -24065,7 +24065,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6100/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BBC Earth HD TR
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6854/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BBC Earth RO
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7032/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7058/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BBC Earth TR
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6855/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BBC Entertainment
@@ -24109,7 +24109,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/11034/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BCU Kids 4K
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/17023/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BCU Kids HD
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/11035/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/11036/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BCU Kinorating HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/11037/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,BCU Little HD
@@ -24311,7 +24311,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20170/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Bridge Classic orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9259/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Bridge Deluxe HD
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19224/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/236/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Bridge Deluxe HD orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9012/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Bridge Hits
@@ -24989,7 +24989,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/14018/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,E HD orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/14019/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,E TV
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/736/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/5048/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,E TV HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/5035/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ELEVEN SPORTS 1 UHD PT
@@ -25591,7 +25591,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6961/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Jurnal TV
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2446/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Jurnal TV HD MD
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19443/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/5008/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,K1 HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15125/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,K2 HD
@@ -25837,7 +25837,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6360/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,LRT TV LT
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6356/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,LTV1 HD LV
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/18020/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/12004/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,LTV1 LV
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/12013/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,LTV7 HD LV
@@ -26383,7 +26383,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7327/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NDR HD DE
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15181/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NDTV 24x7 IN
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6620/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6578/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NESN HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/11109/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,NFL Network HD CA
@@ -26459,7 +26459,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7021/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,National 24 Plus RO
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6947/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,National Geographic
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/14000/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2336/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,National Geographic HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/14001/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,National Geographic HD 50
@@ -27115,7 +27115,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6571/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sony Yay IN
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6627/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spiegel Geschichte HD DE
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2566/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6091/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Spirit Tv HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/10073/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sporsmart 2 HD
@@ -27131,7 +27131,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6367/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 1 HD Religious
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/20077/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 1 LT
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2548/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6366/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 2 HD CZ
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2557/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Sport 5 CZ
@@ -27451,7 +27451,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/18010/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV24 LV
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6410/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV3 EE
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/18003/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6411/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV3 Film HD LT
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/12014/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV3 Film LT
@@ -27501,7 +27501,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/1030/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV5 CA
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6531/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV6 EE
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6415/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/18004/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV6 FHD PL
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/7289/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,TV6 HD LT
@@ -27875,7 +27875,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/17033/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,VF Modern Talking
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/14004/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,VF Music
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15516/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15512/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,VF Musicльный Новый год
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/16140/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,VF Mystic
@@ -28251,7 +28251,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/996/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,XSPORT Plus HD UA
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15261/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,XSPORT UA
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6309/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6331/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Xsport HD orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/5077/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,YAS Sports AE
@@ -28635,7 +28635,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15191/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Глазами Туриста 4K HEVC
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15147/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Глазами Туриста HD
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2104/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15144/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Глазами Туриста HD orig
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9061/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Глазов 24 HD
@@ -29165,7 +29165,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19258/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Министерство идей HD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/16025/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Мир
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/214/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/113/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Мир 0 Элиста
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15459/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Мир 2
@@ -30261,7 +30261,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15473/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ТНТ 0 Элиста
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15460/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ТНТ 2
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/6020/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/717/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ТНТ 2 Белорецк
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/15462/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,ТНТ 2 Нефтекамск
@@ -30403,7 +30403,7 @@ http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/9076/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Туапсе 24 FHD
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19380/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Тюменское время
-http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19237/index.m3u8
+http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19374/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,УНІАН
 http://45.156.223.202/iptv/9EEMQ96NEYM85HPTWGXHEBV7/1023/index.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,Удар
@@ -31098,7 +31098,7 @@ http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/67924.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA CBS 13 Baltimore WJZ
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/67972.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA CBS 2 New York WCBS
-http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/43008.m3u8
+http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/36876.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA CBS 2 Winston Salem WFMY
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/67915.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA CBS 4 Buffalo WIVB
@@ -31270,7 +31270,7 @@ http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/148826.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MLB Network HD
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/162973.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MSG
-http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/36918.m3u8
+http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/162722.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MTV
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/36775.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA MTV 2
@@ -31430,7 +31430,7 @@ http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/36910.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA The Weather Channel
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/67765.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA Travel Channel
-http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/156758.m3u8
+http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/36814.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA TyC Sports
 http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/162289.m3u8
 #EXTINF:-1 group-title="⚽ رياضية عامة" tvg-logo="" ,USA USA Network
@@ -31511,4 +31511,4 @@ http://app.tecnomolly.com:8080/live/denissepr/rzafXUqCZt/161058.m3u8
 
 #EXTINF:-1 group-title="📊 إحصائيات",═════════════════════════
 #EXTINF:-1 group-title="📊 إحصائيات",🎯 إجمالي القنوات: 15652 قناة
-#EXTINF:-1 group-title="📊 إحصائيات",📅 تاريخ التحديث: 2026-04-03 14:27:55
+#EXTINF:-1 group-title="📊 إحصائيات",📅 تاريخ التحديث: 2026-04-03 17:00:40
