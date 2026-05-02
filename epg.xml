@@ -468,9 +468,24 @@
     <desc>Yuki and Tohru meet Hatsuharu out in the rain carrying an exhausted Kisa Soma in tiger form, who has run away from home.</desc>
     <date>2026-05-03</date>
   </programme>
-  <programme channel="369848" start="20260503222800 +0700" stop="20260504000000 +0700">
+  <programme channel="369848" start="20260503222800 +0700" stop="20260503225800 +0700">
     <title lang="zh">FRUITS BASKET SEASON 1</title>
     <desc>Upon returning home, Tohru meets Ritsu, who is the monkey of the Soma family and constantly apologizing for everything.</desc>
     <date>2026-05-03</date>
+  </programme>
+  <programme channel="369848" start="20260503225800 +0700" stop="20260503233000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Hiro Soma is jealous that Kisa is spending more time with Tohru, so he goes to meet Tohru and starts bullying her.</desc>
+    <date>2026-05-03</date>
+  </programme>
+  <programme channel="369848" start="20260503233000 +0700" stop="20260504000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Ace and Sabo can't kill the big tiger, but Luffy is starting to master his Gum-Gum techniques after his training.</desc>
+    <date>2026-05-03</date>
+  </programme>
+  <programme channel="369848" start="20260504000000 +0700" stop="20260505000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>The Bluejam Pirates surround the boys at Gray Terminal, and hand Sabo over to his father, who hired them to do so.</desc>
+    <date>2026-05-04</date>
   </programme>
 </tv>
