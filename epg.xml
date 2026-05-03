@@ -463,9 +463,29 @@
     <desc>At the age of six, Inglis and Rafinha are baptized to become knights. When they're 12, they join a feast for Inspectors.</desc>
     <date>2026-05-04</date>
   </programme>
-  <programme channel="369848" start="20260504220000 +0700" stop="20260505000000 +0700">
+  <programme channel="369848" start="20260504220000 +0700" stop="20260504223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Sabo finds out the royal people want to burn down Gray Terminal, but he is caught when he tries to warn Ace and Luffy.</desc>
     <date>2026-05-04</date>
+  </programme>
+  <programme channel="369848" start="20260504223000 +0700" stop="20260504230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Dadan comes to save Ace and Luffy when Bluejam attacks them. When Ace refuses to go, she stays to fight alongside him.</desc>
+    <date>2026-05-04</date>
+  </programme>
+  <programme channel="369848" start="20260504230000 +0700" stop="20260504233000 +0700">
+    <title lang="zh">TSUKIMICHI -MOONLIT FANTASY- SEASON 2</title>
+    <desc>During summer break, Makoto spends his time doing miscellaneous work and learning magic. He faces strong winged opponents in mock battles.</desc>
+    <date>2026-05-04</date>
+  </programme>
+  <programme channel="369848" start="20260504233000 +0700" stop="20260505000000 +0700">
+    <title lang="zh">TSUKIMICHI -MOONLIT FANTASY- SEASON 2</title>
+    <desc>As summer ends, Highland Orces are attacked by wolves and bears while exploring the forest. Makoto seeks peace but is met with hostility from a bear he encounters.</desc>
+    <date>2026-05-04</date>
+  </programme>
+  <programme channel="369848" start="20260505000000 +0700" stop="20260506000000 +0700">
+    <title lang="zh">REBORN TO MASTER THE BLADE: FROM HERO-KING TO EXTRAORDINARY SQUIRE</title>
+    <desc>Hero King Inglis dedicates himself to the Kingdom and is dying. He wishes he can train himself in the next life.</desc>
+    <date>2026-05-05</date>
   </programme>
 </tv>
