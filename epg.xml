@@ -463,9 +463,29 @@
     <desc>While the members of the Zodiac are visiting Akito, Tohru spends some time with Kyo playing with sand at the beach.</desc>
     <date>2026-06-03</date>
   </programme>
-  <programme channel="369848" start="20260603220000 +0700" stop="20260604000000 +0700">
+  <programme channel="369848" start="20260603220000 +0700" stop="20260603223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>Brook, held by Longarm Tribe, plays for a crowd after getting Luffy's message. Robin heads to Baltigo to meet Dragon.</desc>
     <date>2026-06-03</date>
+  </programme>
+  <programme channel="369848" start="20260603223000 +0700" stop="20260603230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Jimbe leaves Luffy, promising to meet in two years. Rayleigh trains Luffy in Haki on Rusukaina with a giant elephant.</desc>
+    <date>2026-06-03</date>
+  </programme>
+  <programme channel="369848" start="20260603230000 +0700" stop="20260603233000 +0700">
+    <title lang="zh">TSUKIMICHI -MOONLIT FANTASY- SEASON 2</title>
+    <desc>After the battle in Limia, Makoto reunites with friends in the demiplane, then returns to Rotsgard to finish off the remaining mutants and end the turmoil.</desc>
+    <date>2026-06-03</date>
+  </programme>
+  <programme channel="369848" start="20260603233000 +0700" stop="20260604000000 +0700">
+    <title lang="zh">STRIKE THE BLOOD FINAL</title>
+    <desc>Suspected to launch a large-scale terror attack, MAR is under siege from the fleet of Holy Ground Treaty Organization.</desc>
+    <date>2026-06-03</date>
+  </programme>
+  <programme channel="369848" start="20260604000000 +0700" stop="20260605000000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Tohru and the Somas take part in a watermelon splitting contest to celebrate the news of Hiro getting a little sibling.</desc>
+    <date>2026-06-04</date>
   </programme>
 </tv>
