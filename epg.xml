@@ -463,9 +463,29 @@
     <desc>Kyo is summoned to the annex to see Akito, where he is reminded of his painful past of how he lost his mother.</desc>
     <date>2026-06-04</date>
   </programme>
-  <programme channel="369848" start="20260604220000 +0700" stop="20260605000000 +0700">
+  <programme channel="369848" start="20260604220000 +0700" stop="20260604223000 +0700">
     <title lang="zh">GRAND BLUE</title>
     <desc>Iori tries to set up another mixer for his friends by using a game to get Chisa to introduce her friends to them.</desc>
     <date>2026-06-04</date>
+  </programme>
+  <programme channel="369848" start="20260604223000 +0700" stop="20260604230000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>The PaB members arrive in Okinawa, and have a banana boat contest. Being the loser, Iori has to sleep in Nanaka's room.</desc>
+    <date>2026-06-04</date>
+  </programme>
+  <programme channel="369848" start="20260604230000 +0700" stop="20260604233000 +0700">
+    <title lang="zh">THE DAILY LIFE OF A MIDDLE-AGED ONLINE SHOPPER IN ANOTHER WORLD</title>
+    <desc>Kenichi and Anemone settle down at a lake far away from Dahlia. Myare finds them by tracing their smells.</desc>
+    <date>2026-06-04</date>
+  </programme>
+  <programme channel="369848" start="20260604233000 +0700" stop="20260605000000 +0700">
+    <title lang="zh">THE DAILY LIFE OF A MIDDLE-AGED ONLINE SHOPPER IN ANOTHER WORLD</title>
+    <desc>Kenichi's group go to look for Chicory seeds to save Mary. A Dogman blocks their way and comes after Croton.</desc>
+    <date>2026-06-04</date>
+  </programme>
+  <programme channel="369848" start="20260605000000 +0700" stop="20260606000000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>While the members of the Zodiac are visiting Akito, Tohru spends some time with Kyo playing with sand at the beach.</desc>
+    <date>2026-06-05</date>
   </programme>
 </tv>
