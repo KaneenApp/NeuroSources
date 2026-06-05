@@ -463,9 +463,29 @@
     <desc>Komui's latest invention goes out of control, and hunts exorcists within the Black Order. Allen is almost captured as Kanda refuses to help.</desc>
     <date>2026-06-06</date>
   </programme>
-  <programme channel="369848" start="20260606215800 +0700" stop="20260607000000 +0700">
+  <programme channel="369848" start="20260606215800 +0700" stop="20260606222600 +0700">
     <title lang="zh">D.GRAY-MAN (#1-52)</title>
     <desc>Allen and Lenalee investigate a town where October 28 keeps repeating itself and they meet Miranda. Road follows them in the investigation.</desc>
     <date>2026-06-06</date>
+  </programme>
+  <programme channel="369848" start="20260606222600 +0700" stop="20260606230000 +0700">
+    <title lang="zh">D.GRAY-MAN (#1-52)</title>
+    <desc>Allen and Lenalee resolve to help Miranda. However, they do not know that Road is watching their moves and has special plans for them.</desc>
+    <date>2026-06-06</date>
+  </programme>
+  <programme channel="369848" start="20260606230000 +0700" stop="20260606233000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>Grast tries using Shion's knowledge to mine and sell lightning ore, but it fails. So he asks Shion to help him sell it.</desc>
+    <date>2026-06-06</date>
+  </programme>
+  <programme channel="369848" start="20260606233000 +0700" stop="20260607000000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>To move on to the next stage of his research, Shion goes on a monster suppression mission with Marie and Rose.</desc>
+    <date>2026-06-06</date>
+  </programme>
+  <programme channel="369848" start="20260607000000 +0700" stop="20260608000000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>Marie and Shion help Rose get rid of the pest in the field. A red light appears in the sky, and Marie collapses.</desc>
+    <date>2026-06-07</date>
   </programme>
 </tv>
