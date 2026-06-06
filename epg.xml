@@ -463,9 +463,29 @@
     <desc>The Peek-a-Boo club heads to Miyakojima for a serious dive. Iori can't join, and a local drinking custom soon turns paradise into chaos.</desc>
     <date>2026-06-07</date>
   </programme>
-  <programme channel="369848" start="20260607220000 +0700" stop="20260608000000 +0700">
+  <programme channel="369848" start="20260607220000 +0700" stop="20260607223000 +0700">
     <title lang="zh">FRUITS BASKET SEASON 2</title>
     <desc>While the members of the Zodiac are visiting Akito, Tohru spends some time with Kyo playing with sand at the beach.</desc>
     <date>2026-06-07</date>
+  </programme>
+  <programme channel="369848" start="20260607223000 +0700" stop="20260607230000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Kyo is summoned to the annex to see Akito, where he is reminded of his painful past of how he lost his mother.</desc>
+    <date>2026-06-07</date>
+  </programme>
+  <programme channel="369848" start="20260607230000 +0700" stop="20260607233000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Tohru and the Somas prepare to set off fireworks as their holiday comes to an end. Akito goes to the house to see Tohru.</desc>
+    <date>2026-06-07</date>
+  </programme>
+  <programme channel="369848" start="20260607233000 +0700" stop="20260608000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Nami gets Luffy's message and stays on Weatheria. Franky understands and moves into another lab once used by Vegapunk.</desc>
+    <date>2026-06-07</date>
+  </programme>
+  <programme channel="369848" start="20260608000000 +0700" stop="20260609000000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>Brook, held by Longarm Tribe, plays for a crowd after getting Luffy's message. Robin heads to Baltigo to meet Dragon.</desc>
+    <date>2026-06-08</date>
   </programme>
 </tv>
