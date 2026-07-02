@@ -393,9 +393,29 @@
     <desc>The school prepares for the festival. Yuki expresses how he feels about Tohru's kindness, a secret that he has not told anyone.</desc>
     <date>2026-07-03</date>
   </programme>
-  <programme channel="369848" start="20260703220000 +0700" stop="20260704000000 +0700">
+  <programme channel="369848" start="20260703220000 +0700" stop="20260703223000 +0700">
     <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
     <desc>As Ace climbs the stairs to the Navy HQ's scaffold, he recalls the day when Luffy and he swore to live freely.</desc>
     <date>2026-07-03</date>
+  </programme>
+  <programme channel="369848" start="20260703223000 +0700" stop="20260703230000 +0700">
+    <title lang="zh">ONE PIECE: MARINEFORD ARC</title>
+    <desc>The world is shocked by the fact that Ace is Roger's son. His execution will mean the death of the next King of Pirates.</desc>
+    <date>2026-07-03</date>
+  </programme>
+  <programme channel="369848" start="20260703230000 +0700" stop="20260703233000 +0700">
+    <title lang="zh">THE DAILY LIFE OF A MIDDLE-AGED ONLINE SHOPPER IN ANOTHER WORLD</title>
+    <desc>Kenichi and his family are received in an audience, but Kenichi is suddenly told to have a match with a female mage.</desc>
+    <date>2026-07-03</date>
+  </programme>
+  <programme channel="369848" start="20260703233000 +0700" stop="20260704000000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Over a decade after Ai's death, Ruby dreams of becoming an idol, but her brother Aqua's interference holds her back, though her passion remains unwavering.</desc>
+    <date>2026-07-03</date>
+  </programme>
+  <programme channel="369848" start="20260704000000 +0700" stop="20260705000000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Yuki recalls the moment he first met Akito, from memories of them playing together to the time when Akito had his outburst.</desc>
+    <date>2026-07-04</date>
   </programme>
 </tv>
