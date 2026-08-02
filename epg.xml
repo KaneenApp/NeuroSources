@@ -463,9 +463,29 @@
     <desc>Ragna asks Crimson to help him defeat the Bloodline of Wings. Crimson refuses because they have no chance of winning.</desc>
     <date>2026-08-03</date>
   </programme>
-  <programme channel="369848" start="20260803220000 +0700" stop="20260804000000 +0700">
+  <programme channel="369848" start="20260803220000 +0700" stop="20260803223000 +0700">
     <title lang="zh">UNNAMED MEMORY SEASON 2</title>
     <desc>400 years ago, Tinasha destroyed Tuldarr in a single night. Oscar rewrote history, erasing the Witch of the Azure Moon.</desc>
     <date>2026-08-03</date>
+  </programme>
+  <programme channel="369848" start="20260803223000 +0700" stop="20260803230000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-08-03</date>
+  </programme>
+  <programme channel="369848" start="20260803230000 +0700" stop="20260803233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta loses his temper when members of Magic Knights keep looking down upon Asta and others. Fuegoleon stops the fight.</desc>
+    <date>2026-08-03</date>
+  </programme>
+  <programme channel="369848" start="20260803233000 +0700" stop="20260804000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta rushes out right away knowing that the capital is being attacked. Following him, Leopold rushes to the scene.</desc>
+    <date>2026-08-03</date>
+  </programme>
+  <programme channel="369848" start="20260804000000 +0700" stop="20260805000000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>After his defeat, Ragna has a conversation with Starlia by telepathy, which leads him to believe Starlia is still alive.</desc>
+    <date>2026-08-04</date>
   </programme>
 </tv>
