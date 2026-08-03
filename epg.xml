@@ -463,9 +463,29 @@
     <desc>Several battles are taking place and they're getting fiercer. At the same time, Nasarena walks up to a dying Starlia.</desc>
     <date>2026-08-04</date>
   </programme>
-  <programme channel="369848" start="20260804220000 +0700" stop="20260805000000 +0700">
+  <programme channel="369848" start="20260804220000 +0700" stop="20260804223000 +0700">
     <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
     <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
     <date>2026-08-04</date>
+  </programme>
+  <programme channel="369848" start="20260804223000 +0700" stop="20260804230000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san sneakily follows Nishikata, who senses her presence, but can't see her. Who will win this battle in the end?</desc>
+    <date>2026-08-04</date>
+  </programme>
+  <programme channel="369848" start="20260804230000 +0700" stop="20260804233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta rushes out right away knowing that the capital is being attacked. Following him, Leopold rushes to the scene.</desc>
+    <date>2026-08-04</date>
+  </programme>
+  <programme channel="369848" start="20260804233000 +0700" stop="20260805000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>With Noelle's help, Asta is now able to concentrate on fighting. But the corpses drain his physical strength.</desc>
+    <date>2026-08-04</date>
+  </programme>
+  <programme channel="369848" start="20260805000000 +0700" stop="20260806000000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>With the measure to counter the formidable Time Magic as their trump card, the Argentum Corps head to the final battle.</desc>
+    <date>2026-08-05</date>
   </programme>
 </tv>
