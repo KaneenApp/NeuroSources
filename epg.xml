@@ -463,9 +463,29 @@
     <desc>The battle between the Exorcists and the Noah continues, and the combined Akuma manages to injure the Exorcists even after Chomesuke's sacrifice.</desc>
     <date>2026-09-05</date>
   </programme>
-  <programme channel="369848" start="20260905220000 +0700" stop="20260906000000 +0700">
+  <programme channel="369848" start="20260905220000 +0700" stop="20260905223000 +0700">
     <title lang="zh">D.GRAY-MAN (#53-103)</title>
     <desc>Just as Tyki is about to kill the Exorcists, Kanda begins a fight with Tyki, and he manages to save Lenalee who was held captive by Tyki.</desc>
     <date>2026-09-05</date>
+  </programme>
+  <programme channel="369848" start="20260905223000 +0700" stop="20260905230000 +0700">
+    <title lang="zh">D.GRAY-MAN (#53-103)</title>
+    <desc>The Earl's black orb of energy completely destroys Edo, and Allen and the Earl meet again as the Earl tries to obtain Lenalee's Innocence himself.</desc>
+    <date>2026-09-05</date>
+  </programme>
+  <programme channel="369848" start="20260905230000 +0700" stop="20260905233000 +0700">
+    <title lang="zh">D.GRAY-MAN (#53-103)</title>
+    <desc>Allens vows to protect Lenalee and begins the fight with the Earl. The Earl assures Allen they will continue the fight before disappearing.</desc>
+    <date>2026-09-05</date>
+  </programme>
+  <programme channel="369848" start="20260905233000 +0700" stop="20260906000000 +0700">
+    <title lang="zh">OSHI NO KO Season 2</title>
+    <desc>To survive in the industry, Kana becomes an obedient actress, but Aqua's push triggers his panic attack….</desc>
+    <date>2026-09-05</date>
+  </programme>
+  <programme channel="369848" start="20260906000000 +0700" stop="20260907000000 +0700">
+    <title lang="zh">OSHI NO KO Season 2</title>
+    <desc>Aqua channels his painful past—regret, sadness, and unrealized dreams—to fully embody his role's emotions.</desc>
+    <date>2026-09-06</date>
   </programme>
 </tv>
