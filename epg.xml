@@ -463,9 +463,29 @@
     <desc>On the second day of the festival, Makoto is approached by Sairitsu who suspects that he may be from another world.</desc>
     <date>2026-09-07</date>
   </programme>
-  <programme channel="369848" start="20260907220000 +0700" stop="20260908000000 +0700">
+  <programme channel="369848" start="20260907220000 +0700" stop="20260907223000 +0700">
     <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
     <desc>Akutsu rescues Lily, and they hunt demons instead of dating. As they investigate wild dog attacks, a sinister gaze watches them.</desc>
     <date>2026-09-07</date>
+  </programme>
+  <programme channel="369848" start="20260907223000 +0700" stop="20260907230000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>Akutsu rescues Lily, skipping their date for a demon hunt. As they investigate wild dog attacks, a menacing gaze follows them.</desc>
+    <date>2026-09-07</date>
+  </programme>
+  <programme channel="369848" start="20260907230000 +0700" stop="20260907233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Thanks to Gauche's strategy, Asta and others manage to defeat Licht. Yami takes Licht to Magic Knights Headquarters.</desc>
+    <date>2026-09-07</date>
+  </programme>
+  <programme channel="369848" start="20260907233000 +0700" stop="20260908000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Receiving a report, Captains Nozel, Jack the Ripper and Charlotte Roselei rush to the cave where Asta and others are.</desc>
+    <date>2026-09-07</date>
+  </programme>
+  <programme channel="369848" start="20260908000000 +0700" stop="20260909000000 +0700">
+    <title lang="zh">TSUKIMICHI -MOONLIT FANTASY- SEASON 2</title>
+    <desc>As the school festival approaches, priest Shinai, arranges a meeting with Makoto. Shinai informs Makoto about rumors concerning the shop medicine and offering to help dispel them.</desc>
+    <date>2026-09-08</date>
   </programme>
 </tv>
