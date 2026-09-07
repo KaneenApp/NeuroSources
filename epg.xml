@@ -463,9 +463,29 @@
     <desc>After deciding to support the demon clan, Makoto plans to leave Rotsgard after watching the tournament, where Jin's team faces the powerful Ilumgand.</desc>
     <date>2026-09-08</date>
   </programme>
-  <programme channel="369848" start="20260908220000 +0700" stop="20260909000000 +0700">
+  <programme channel="369848" start="20260908220000 +0700" stop="20260908223000 +0700">
     <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
     <desc>Akutsu rescues Lily, skipping their date for a demon hunt. As they investigate wild dog attacks, a menacing gaze follows them.</desc>
     <date>2026-09-08</date>
+  </programme>
+  <programme channel="369848" start="20260908223000 +0700" stop="20260908230000 +0700">
+    <title lang="zh">THE FOOLISH ANGEL DANCES WITH THE DEVIL</title>
+    <desc>After training with his demon boss Liz, Akutsu gains confidence and sets out to corrupt Lily. As they battle in charm, Lily makes a desperate move.</desc>
+    <date>2026-09-08</date>
+  </programme>
+  <programme channel="369848" start="20260908230000 +0700" stop="20260908233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Receiving a report, Captains Nozel, Jack the Ripper and Charlotte Roselei rush to the cave where Asta and others are.</desc>
+    <date>2026-09-08</date>
+  </programme>
+  <programme channel="369848" start="20260908233000 +0700" stop="20260909000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta and Yami receive a message, asking them to visit Magic Knights Headquarters. Asta visits the prison with Marx.</desc>
+    <date>2026-09-08</date>
+  </programme>
+  <programme channel="369848" start="20260909000000 +0700" stop="20260910000000 +0700">
+    <title lang="zh">TSUKIMICHI -MOONLIT FANTASY- SEASON 2</title>
+    <desc>In a school festival's tournament, students are forced to face off against their peers due to noble schemes. Jin advances to the finals and faces off against Ilumgand Hopleys.</desc>
+    <date>2026-09-09</date>
   </programme>
 </tv>
