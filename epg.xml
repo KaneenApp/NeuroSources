@@ -463,9 +463,29 @@
     <desc>A few months after the Nyandemic outbreak, Kunagi and Kaoru saves a boy called Arata on their way to meet Tsutsumi.</desc>
     <date>2026-10-05</date>
   </programme>
-  <programme channel="369848" start="20261005220000 +0700" stop="20261006000000 +0700">
+  <programme channel="369848" start="20261005220000 +0700" stop="20261005223000 +0700">
     <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
     <desc>When Shion's dad leads a group to purge the goblins, a goblin breaks into their house, where the villagers are hiding.</desc>
     <date>2026-10-05</date>
+  </programme>
+  <programme channel="369848" start="20261005223000 +0700" stop="20261005230000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>Shion is thrilled to discover his new magic. On the other hand, Marie practises fencing to shake off the bad memory.</desc>
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="369848" start="20261005230000 +0700" stop="20261005233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Even with Vanessa and Finral's help, Asta and others can't defeat Vetto easily. Can Black Bulls crush the despair?</desc>
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="369848" start="20261005233000 +0700" stop="20261006000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta's sword finally gets to Vetto? That is Vetto's strategy: to not only steal Asta's sword but also crush his arm.</desc>
+    <date>2026-10-05</date>
+  </programme>
+  <programme channel="369848" start="20261006000000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>Everyone at the supermarket enjoys a brief moment of respite, until a cat sneaks in and wreaks havoc inside the store.</desc>
+    <date>2026-10-06</date>
   </programme>
 </tv>
