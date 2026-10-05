@@ -463,9 +463,29 @@
     <desc>Kunagi, Kaoru, and Arata head to a desolated shopping mall at Grandma's behest to search for their missing comrades.</desc>
     <date>2026-10-06</date>
   </programme>
-  <programme channel="369848" start="20261006220000 +0700" stop="20261007000000 +0700">
+  <programme channel="369848" start="20261006220000 +0700" stop="20261006223000 +0700">
     <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
     <desc>Shion is thrilled to discover his new magic. On the other hand, Marie practises fencing to shake off the bad memory.</desc>
     <date>2026-10-06</date>
+  </programme>
+  <programme channel="369848" start="20261006223000 +0700" stop="20261006230000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>Grast tries using Shion's knowledge to mine and sell lightning ore, but it fails. So he asks Shion to help him sell it.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369848" start="20261006230000 +0700" stop="20261006233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Asta's sword finally gets to Vetto? That is Vetto's strategy: to not only steal Asta's sword but also crush his arm.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369848" start="20261006233000 +0700" stop="20261007000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 1</title>
+    <desc>Members of Black Bull defeat a formidable foe. The magic stone is safely obtained and the mission is completed.</desc>
+    <date>2026-10-06</date>
+  </programme>
+  <programme channel="369848" start="20261007000000 +0700" stop="20261008000000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>With the Cat Apocalypse upon them, Kunagi and Kaoru find shelter in a fortress called Wendelstein with Arata's help.</desc>
+    <date>2026-10-07</date>
   </programme>
 </tv>
