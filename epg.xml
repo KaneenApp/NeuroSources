@@ -463,9 +463,29 @@
     <desc>Rei's father summons Rei home and orders him to kill someone. At the same time, Kazuki and Miri prepare a party for him.</desc>
     <date>2026-10-16</date>
   </programme>
-  <programme channel="369848" start="20261016220000 +0700" stop="20261017000000 +0700">
+  <programme channel="369848" start="20261016220000 +0700" stop="20261016223000 +0700">
     <title lang="zh">STRIKE THE BLOOD FINAL</title>
     <desc>The villagers come to a new place where they can reunite with Avrora. Mogwai asks them to protect a sealing system.</desc>
     <date>2026-10-16</date>
+  </programme>
+  <programme channel="369848" start="20261016223000 +0700" stop="20261016230000 +0700">
+    <title lang="zh">STRIKE THE BLOOD FINAL</title>
+    <desc>MAR has lost its trump card, so they play hard and summon loads of huge demons to start invading Itogami Island.</desc>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="369848" start="20261016230000 +0700" stop="20261016233000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>Alicia promised her father she'd reach magic level 90 to stay Liz's overseer, secluding herself in a shed to train.</desc>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="369848" start="20261016233000 +0700" stop="20261017000000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>After two years of training, Alicia sets out for the village of Roana, where she achieves something remarkable.</desc>
+    <date>2026-10-16</date>
+  </programme>
+  <programme channel="369848" start="20261017000000 +0700" stop="20261018000000 +0700">
+    <title lang="zh">BUDDY DADDIES</title>
+    <desc>Kazuki leaves home because of how spoilt Rei and Miri are, leaving Rei to struggle to look after Miri on his own.</desc>
+    <date>2026-10-17</date>
   </programme>
 </tv>
