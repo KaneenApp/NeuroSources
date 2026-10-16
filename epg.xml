@@ -463,9 +463,29 @@
     <desc>With the help of the Generals, Allen manages to destroy the Level 4. Allen vows to destroy the Earl who is planning to make a new Akuma egg.</desc>
     <date>2026-10-17</date>
   </programme>
-  <programme channel="369848" start="20261017220000 +0700" stop="20261018000000 +0700">
+  <programme channel="369848" start="20261017220000 +0700" stop="20261017223000 +0700">
     <title lang="zh">My Deer Friend Nokotan</title>
     <desc>Torako Koshi, a former delinquent turned honor student, meets Noko Shikanoko, a horned girl who disrupts her peaceful life.</desc>
     <date>2026-10-17</date>
+  </programme>
+  <programme channel="369848" start="20261017223000 +0700" stop="20261017230000 +0700">
+    <title lang="zh">My Deer Friend Nokotan</title>
+    <desc>Koshitan makes herself comfortable in the room of the Deer Club, but her little paradise is quickly destroyed.</desc>
+    <date>2026-10-17</date>
+  </programme>
+  <programme channel="369848" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>Kunagi and the group encounter a mysterious cat in the mall that seems to understand human language for some reason.</desc>
+    <date>2026-10-17</date>
+  </programme>
+  <programme channel="369848" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>Kunagi and the others are suddenly confronted by a bear with a cat on its back, leading to the duel of the century!</desc>
+    <date>2026-10-17</date>
+  </programme>
+  <programme channel="369848" start="20261018000000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>Jones, the mysterious cat, ends up living at Wendelstein. Will he become the bridge that connects humans and cats?</desc>
+    <date>2026-10-18</date>
   </programme>
 </tv>
