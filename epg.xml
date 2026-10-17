@@ -463,9 +463,29 @@
     <desc>MAR has lost its trump card, so they play hard and summon loads of huge demons to start invading Itogami Island.</desc>
     <date>2026-10-18</date>
   </programme>
-  <programme channel="369848" start="20261018220000 +0700" stop="20261019000000 +0700">
+  <programme channel="369848" start="20261018220000 +0700" stop="20261018223000 +0700">
     <title lang="zh">BLACK CLOVER SEASON 2</title>
     <desc>Golden Dawn rushes to the scene to save the town of Kiten, which is attacked by the Diamond Kingdom.</desc>
     <date>2026-10-18</date>
+  </programme>
+  <programme channel="369848" start="20261018223000 +0700" stop="20261018230000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>In the battle against Diamond Kingdom, Yami helps Vangeance, captain of Golden Dawn to dodge the attack from Lotus.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369848" start="20261018230000 +0700" stop="20261018233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>After the battle in Kiten, Yami introduces Asta to Owen, a healing mage who is under the Wizard King, to treat his arms.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369848" start="20261018233000 +0700" stop="20261019000000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>Alicia promised her father she'd reach magic level 90 to stay Liz's overseer, secluding herself in a shed to train.</desc>
+    <date>2026-10-18</date>
+  </programme>
+  <programme channel="369848" start="20261019000000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">I'LL BECOME A VILLAINESS WHO GOES DOWN IN HISTORY</title>
+    <desc>After two years of training, Alicia sets out for the village of Roana, where she achieves something remarkable.</desc>
+    <date>2026-10-19</date>
   </programme>
 </tv>
