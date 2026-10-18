@@ -463,9 +463,29 @@
     <desc>As the Wendelstein residents fall helplessly, Grandma attempts to save the day through an interspecies cat meeting.</desc>
     <date>2026-10-19</date>
   </programme>
-  <programme channel="369848" start="20261019220000 +0700" stop="20261020000000 +0700">
+  <programme channel="369848" start="20261019220000 +0700" stop="20261019223000 +0700">
     <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
     <desc>Shion and his team continue to look for a way to treat Lethargy Sickness with magic power, and Rose offers to help.</desc>
     <date>2026-10-19</date>
+  </programme>
+  <programme channel="369848" start="20261019223000 +0700" stop="20261019230000 +0700">
+    <title lang="zh">MAGIC MAKER: HOW TO MAKE MAGIC IN ANOTHER WORLD</title>
+    <desc>A horde of wraiths appear again two years after the Night Menace, so Shion and Raphina's unit go to intercept them.</desc>
+    <date>2026-10-19</date>
+  </programme>
+  <programme channel="369848" start="20261019230000 +0700" stop="20261019233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>After the battle in Kiten, Yami introduces Asta to Owen, a healing mage who is under the Wizard King, to treat his arms.</desc>
+    <date>2026-10-19</date>
+  </programme>
+  <programme channel="369848" start="20261019233000 +0700" stop="20261020000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Asta meets Fanzell Kruger after the Grimoire Acceptance Ceremony and receives wind magic training from him.</desc>
+    <date>2026-10-19</date>
+  </programme>
+  <programme channel="369848" start="20261020000000 +0700" stop="20261021000000 +0700">
+    <title lang="zh">NYAIGHT OF THE LIVING CAT</title>
+    <desc>The Wendelstein residents brace themselves for an incoming feline assault, only to face their greatest crisis yet.</desc>
+    <date>2026-10-20</date>
   </programme>
 </tv>
