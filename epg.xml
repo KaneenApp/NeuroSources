@@ -458,9 +458,29 @@
     <desc>Jill uncovers Beil and Gerald's plot and tries to protect Hadis, but Rave traps her and shows why she is Dragon Empress.</desc>
     <date>2026-10-27</date>
   </programme>
-  <programme channel="369848" start="20261027220000 +0700" stop="20261028000000 +0700">
+  <programme channel="369848" start="20261027220000 +0700" stop="20261027223000 +0700">
     <title lang="zh">FRUITS BASKET SEASON 1</title>
     <desc>The class decides to have a rice ball stand for the school festival. Tohru meets a mysterious little boy at her job.</desc>
     <date>2026-10-27</date>
+  </programme>
+  <programme channel="369848" start="20261027223000 +0700" stop="20261027230000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>A cute girl called Kagura turns up at the house looking for Kyo, but her personality is not what Tohru expected.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369848" start="20261027230000 +0700" stop="20261027233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>While Asta and others are confronting the Queen, the Eye of the Midnight Sun and Diamond Kingdom's army arrive.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369848" start="20261027233000 +0700" stop="20261028000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Noelle uses water magic to put out the fire in the Forest while Asta and others are fighting against Fana.</desc>
+    <date>2026-10-27</date>
+  </programme>
+  <programme channel="369848" start="20261028000000 +0700" stop="20261029000000 +0700">
+    <title lang="zh">THE DO-OVER DAMSEL CONQUERS THE DRAGON EMPEROR</title>
+    <desc>Prince Gerald makes an unexpected visit and Jill and Hadis have to act close to prove she was not kidnapped.</desc>
+    <date>2026-10-28</date>
   </programme>
 </tv>
