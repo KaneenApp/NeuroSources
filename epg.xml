@@ -453,9 +453,29 @@
     <desc>Aqua reunites with former child star Kana. He refuses a drama offer but changes his mind upon hearing the producer's name, which links to Ai's phone.</desc>
     <date>2026-11-16</date>
   </programme>
-  <programme channel="369848" start="20261116220000 +0700" stop="20261117000000 +0700">
+  <programme channel="369848" start="20261116220000 +0700" stop="20261116223000 +0700">
     <title lang="zh">FRUITS BASKET SEASON 1</title>
     <desc>Upon returning home, Tohru meets Ritsu, who is the monkey of the Soma family and constantly apologizing for everything.</desc>
     <date>2026-11-16</date>
+  </programme>
+  <programme channel="369848" start="20261116223000 +0700" stop="20261116230000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Hiro Soma is jealous that Kisa is spending more time with Tohru, so he goes to meet Tohru and starts bullying her.</desc>
+    <date>2026-11-16</date>
+  </programme>
+  <programme channel="369848" start="20261116230000 +0700" stop="20261116233000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Asta and others save the Forest of Witches from the Eye of the Midnight Sun and Diamond Kingdom and are back to base.</desc>
+    <date>2026-11-16</date>
+  </programme>
+  <programme channel="369848" start="20261116233000 +0700" stop="20261117000000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Clover Kingdom is holding the biggest annual festival. On that day, the achievements of 9 Magic Knights'll be announced.</desc>
+    <date>2026-11-16</date>
+  </programme>
+  <programme channel="369848" start="20261117000000 +0700" stop="20261118000000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Over a decade after Ai's death, Ruby dreams of becoming an idol, but her brother Aqua's interference holds her back, though her passion remains unwavering.</desc>
+    <date>2026-11-17</date>
   </programme>
 </tv>
