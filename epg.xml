@@ -1,2 +1,491 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv />
+<tv><channel id="369848">
+    <display-name lang="Singapore">Animax (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369848" start="20261119000000 +0700" stop="20261119003000 +0700">
+    <title lang="zh">SUICIDE SQUAD ISEKAI</title>
+    <desc>Who will save the day when Lich's undead army rolls in and starts wrecking the Kingdom? You guessed it: the Suicide Squad!</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119003000 +0700" stop="20261119010000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori Kitahara looks forward to starting college life in Izu, but he ends up spending his first day in his underwear.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119010000 +0700" stop="20261119013000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo Magami is revealed as Wolf and isolates Morihito for battle, while Nico and Kanshi target the witch and his Dogs.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119013000 +0700" stop="20261119020000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119020000 +0700" stop="20261119023000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Tohru is sad that she has to take the make-up exam, but her friends cheer her up by telling her she will pass it.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119023000 +0700" stop="20261119030000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Kyo's father figure Kazuma visits Shigure's house to see him. However, Kyo learns that he cannot return to the dojo.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119030000 +0700" stop="20261119033000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>At the festival, Asta happens to see Yami and Jack arguing. Yami asks Asta to help to push the sales of his stall.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119033000 +0700" stop="20261119040000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Captain Charlotte is being forced to dress up by Sol. Later, Yami comes and makes fun of her dress. Charlotte is upset.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119040000 +0700" stop="20261119043000 +0700">
+    <title lang="zh">SUICIDE SQUAD ISEKAI</title>
+    <desc>Who will save the day when Lich's undead army rolls in and starts wrecking the Kingdom? You guessed it: the Suicide Squad!</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119043000 +0700" stop="20261119050000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori Kitahara looks forward to starting college life in Izu, but he ends up spending his first day in his underwear.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119050000 +0700" stop="20261119053000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo Magami is revealed as Wolf and isolates Morihito for battle, while Nico and Kanshi target the witch and his Dogs.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119053000 +0700" stop="20261119060000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119060000 +0700" stop="20261119063000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>At the festival, Asta happens to see Yami and Jack arguing. Yami asks Asta to help to push the sales of his stall.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119063000 +0700" stop="20261119070000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Captain Charlotte is being forced to dress up by Sol. Later, Yami comes and makes fun of her dress. Charlotte is upset.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119070000 +0700" stop="20261119073000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Tohru is sad that she has to take the make-up exam, but her friends cheer her up by telling her she will pass it.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119073000 +0700" stop="20261119080000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Kyo's father figure Kazuma visits Shigure's house to see him. However, Kyo learns that he cannot return to the dojo.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119080000 +0700" stop="20261119083000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo Magami is revealed as Wolf and isolates Morihito for battle, while Nico and Kanshi target the witch and his Dogs.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119083000 +0700" stop="20261119090000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119090000 +0700" stop="20261119093000 +0700">
+    <title lang="zh">IN/SPECTRE SEASON 2</title>
+    <desc>Takaya lost his wife in a robbery-murder. Ryotaro suspects he killed his wife and act emaciated to avoid suspicion.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119093000 +0700" stop="20261119100000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119100000 +0700" stop="20261119103000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>At the festival, Asta happens to see Yami and Jack arguing. Yami asks Asta to help to push the sales of his stall.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119103000 +0700" stop="20261119110000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Captain Charlotte is being forced to dress up by Sol. Later, Yami comes and makes fun of her dress. Charlotte is upset.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119110000 +0700" stop="20261119113000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Tohru is sad that she has to take the make-up exam, but her friends cheer her up by telling her she will pass it.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119113000 +0700" stop="20261119120000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>Kyo's father figure Kazuma visits Shigure's house to see him. However, Kyo learns that he cannot return to the dojo.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119120000 +0700" stop="20261119123000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo Magami is revealed as Wolf and isolates Morihito for battle, while Nico and Kanshi target the witch and his Dogs.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119123000 +0700" stop="20261119130000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119130000 +0700" stop="20261119133000 +0700">
+    <title lang="zh">IN/SPECTRE SEASON 2</title>
+    <desc>Takaya lost his wife in a robbery-murder. Ryotaro suspects he killed his wife and act emaciated to avoid suspicion.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119133000 +0700" stop="20261119140000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119140000 +0700" stop="20261119143000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>At the festival, Asta happens to see Yami and Jack arguing. Yami asks Asta to help to push the sales of his stall.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119143000 +0700" stop="20261119150000 +0700">
+    <title lang="zh">BLACK CLOVER SEASON 2</title>
+    <desc>Captain Charlotte is being forced to dress up by Sol. Later, Yami comes and makes fun of her dress. Charlotte is upset.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119150000 +0700" stop="20261119153000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo Magami is revealed as Wolf and isolates Morihito for battle, while Nico and Kanshi target the witch and his Dogs.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119153000 +0700" stop="20261119160000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119160000 +0700" stop="20261119163000 +0700">
+    <title lang="zh">IN/SPECTRE SEASON 2</title>
+    <desc>Takaya lost his wife in a robbery-murder. Ryotaro suspects he killed his wife and act emaciated to avoid suspicion.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119163000 +0700" stop="20261119170000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119170000 +0700" stop="20261119173000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119173000 +0700" stop="20261119180000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119180000 +0700" stop="20261119183000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119183000 +0700" stop="20261119190000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119190000 +0700" stop="20261119193000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The Argentum Corps successfully launched the first strike against Olto Zora, who sees his old master in Starlia.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119193000 +0700" stop="20261119200000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Taratectora and Olto Zora recall the memory of fighting together in battles. Olto Zora makes a merciless decision.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119200000 +0700" stop="20261119203000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119203000 +0700" stop="20261119210000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119210000 +0700" stop="20261119213000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori Kitahara looks forward to starting college life in Izu, but he ends up spending his first day in his underwear.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119213000 +0700" stop="20261119220000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Nanaka doesn't allow Iori to stay out three nights in a row, so Iori tries to show her he's an independent man.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119220000 +0700" stop="20261119223000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The Argentum Corps successfully launched the first strike against Olto Zora, who sees his old master in Starlia.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119223000 +0700" stop="20261119230000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Taratectora and Olto Zora recall the memory of fighting together in battles. Olto Zora makes a merciless decision.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119230000 +0700" stop="20261119233000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261119233000 +0700" stop="20261120000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-19</date>
+  </programme>
+  <programme channel="369848" start="20261120000000 +0700" stop="20261120003000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori Kitahara looks forward to starting college life in Izu, but he ends up spending his first day in his underwear.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120003000 +0700" stop="20261120010000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Nanaka doesn't allow Iori to stay out three nights in a row, so Iori tries to show her he's an independent man.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120010000 +0700" stop="20261120013000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120013000 +0700" stop="20261120020000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120020000 +0700" stop="20261120023000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The Argentum Corps successfully launched the first strike against Olto Zora, who sees his old master in Starlia.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120023000 +0700" stop="20261120030000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Taratectora and Olto Zora recall the memory of fighting together in battles. Olto Zora makes a merciless decision.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120030000 +0700" stop="20261120033000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120033000 +0700" stop="20261120040000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120040000 +0700" stop="20261120043000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori Kitahara looks forward to starting college life in Izu, but he ends up spending his first day in his underwear.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120043000 +0700" stop="20261120050000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Nanaka doesn't allow Iori to stay out three nights in a row, so Iori tries to show her he's an independent man.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120050000 +0700" stop="20261120053000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120053000 +0700" stop="20261120060000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120060000 +0700" stop="20261120063000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120063000 +0700" stop="20261120070000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120070000 +0700" stop="20261120073000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>The God of Undeath suddenly appears and tries to take away Blood and Mary. Gus later repels and rescues them.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120073000 +0700" stop="20261120080000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>On the verge of death, Will makes an oath to Gracefeel. He rises up again and challenges Stagnate who then disappears.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120080000 +0700" stop="20261120083000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120083000 +0700" stop="20261120090000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120090000 +0700" stop="20261120093000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120093000 +0700" stop="20261120100000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san sneakily follows Nishikata, who senses her presence, but can't see her. Who will win this battle in the end?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120100000 +0700" stop="20261120103000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120103000 +0700" stop="20261120110000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120110000 +0700" stop="20261120113000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>The God of Undeath suddenly appears and tries to take away Blood and Mary. Gus later repels and rescues them.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120113000 +0700" stop="20261120120000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>On the verge of death, Will makes an oath to Gracefeel. He rises up again and challenges Stagnate who then disappears.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120120000 +0700" stop="20261120123000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120123000 +0700" stop="20261120130000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120130000 +0700" stop="20261120133000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120133000 +0700" stop="20261120140000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san sneakily follows Nishikata, who senses her presence, but can't see her. Who will win this battle in the end?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120140000 +0700" stop="20261120143000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana moves to live with Noah to receive domestic arts training, but they find it difficult to pretend to be in love.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120143000 +0700" stop="20261120150000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120150000 +0700" stop="20261120153000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo moves into the Otogi household and reveals he transforms at crescent shapes, so the others remove all triggers.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120153000 +0700" stop="20261120160000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120160000 +0700" stop="20261120163000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san teases Nishikata when he uses a grip trainer to build his grip strength. Will he be able to continue even so?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120163000 +0700" stop="20261120170000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san sneakily follows Nishikata, who senses her presence, but can't see her. Who will win this battle in the end?</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120170000 +0700" stop="20261120173000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Utsuro, Oboro, and the team infiltrate an abandoned lab to capture Phasey. The rookies stand by until Zack is ambushed.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120173000 +0700" stop="20261120180000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and her familiars take a summer trip to the land of the ancient retainers, following Ibuki's prophecy.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120180000 +0700" stop="20261120183000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120183000 +0700" stop="20261120190000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120190000 +0700" stop="20261120193000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>After his defeat, Ragna has a conversation with Starlia by telepathy, which leads him to believe Starlia is still alive.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120193000 +0700" stop="20261120200000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Ragna asks Crimson to help him defeat the Bloodline of Wings. Crimson refuses because they have no chance of winning.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120200000 +0700" stop="20261120203000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120203000 +0700" stop="20261120210000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120210000 +0700" stop="20261120213000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Nanaka doesn't allow Iori to stay out three nights in a row, so Iori tries to show her he's an independent man.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120213000 +0700" stop="20261120220000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>The guys try to get Chisa to participate in a women's beauty pageant and get the prize money to buy diving equipment.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120220000 +0700" stop="20261120223000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>After his defeat, Ragna has a conversation with Starlia by telepathy, which leads him to believe Starlia is still alive.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120223000 +0700" stop="20261120230000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Ragna asks Crimson to help him defeat the Bloodline of Wings. Crimson refuses because they have no chance of winning.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120230000 +0700" stop="20261120233000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana and Noah arrive at the ball, and Noah asks Raeliana to get an invitation to the noble ladies' gathering.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261120233000 +0700" stop="20261121000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-20</date>
+  </programme>
+  <programme channel="369848" start="20261121000000 +0700" stop="20261122000000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Nanaka doesn't allow Iori to stay out three nights in a row, so Iori tries to show her he's an independent man.</desc>
+    <date>2026-11-21</date>
+  </programme>
+</tv>
