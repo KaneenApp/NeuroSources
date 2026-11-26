@@ -1,2 +1,471 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv />
+<tv><channel id="369848">
+    <display-name lang="Singapore">Animax (HD)</display-name>
+    <icon src="" />
+  </channel>
+  <programme channel="369848" start="20261127000000 +0700" stop="20261127003000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Chisa gets nervous at Izu Spring Festival's beauty pageant, so Iori and Kohei think of a plan to cheer her on.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127003000 +0700" stop="20261127010000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori's classmates think he is dating Chisa, so Iori and Kohei setup a mixer for them to save themselves from danger.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127010000 +0700" stop="20261127013000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127013000 +0700" stop="20261127020000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127020000 +0700" stop="20261127023000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>With the measure to counter the formidable Time Magic as their trump card, the Argentum Corps head to the final battle.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127023000 +0700" stop="20261127030000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Several battles are taking place and they're getting fiercer. At the same time, Nasarena walks up to a dying Starlia.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127030000 +0700" stop="20261127033000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127033000 +0700" stop="20261127040000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127040000 +0700" stop="20261127043000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Chisa gets nervous at Izu Spring Festival's beauty pageant, so Iori and Kohei think of a plan to cheer her on.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127043000 +0700" stop="20261127050000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori's classmates think he is dating Chisa, so Iori and Kohei setup a mixer for them to save themselves from danger.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127050000 +0700" stop="20261127053000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127053000 +0700" stop="20261127060000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127060000 +0700" stop="20261127063000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127063000 +0700" stop="20261127070000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127070000 +0700" stop="20261127073000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>Will and Menel head to Whitesails where trade is flourishing. They hear screams while going through Beast Woods.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127073000 +0700" stop="20261127080000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>Will, Menel, Bee and Tonio finally arrive in Whitesails. Will is touched by the big city and the people who live there.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127080000 +0700" stop="20261127083000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127083000 +0700" stop="20261127090000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127090000 +0700" stop="20261127093000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127093000 +0700" stop="20261127100000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127100000 +0700" stop="20261127103000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127103000 +0700" stop="20261127110000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127110000 +0700" stop="20261127113000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>Will and Menel head to Whitesails where trade is flourishing. They hear screams while going through Beast Woods.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127113000 +0700" stop="20261127120000 +0700">
+    <title lang="zh">THE FARAWAY PALADIN</title>
+    <desc>Will, Menel, Bee and Tonio finally arrive in Whitesails. Will is touched by the big city and the people who live there.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127120000 +0700" stop="20261127123000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127123000 +0700" stop="20261127130000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127130000 +0700" stop="20261127133000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127133000 +0700" stop="20261127140000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127140000 +0700" stop="20261127143000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Brooks kidnaps Raeliana and escapes by a wagon. When the wheel breaks and they enter a forest, someone catches Raeliana.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127143000 +0700" stop="20261127150000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127150000 +0700" stop="20261127153000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127153000 +0700" stop="20261127160000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127160000 +0700" stop="20261127163000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127163000 +0700" stop="20261127170000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127170000 +0700" stop="20261127173000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127173000 +0700" stop="20261127180000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo feels useless untransformed. Nico gives him a flying-magic ring, and he begins training. One day, Nemu visits him.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127180000 +0700" stop="20261127183000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127183000 +0700" stop="20261127190000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127190000 +0700" stop="20261127193000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Members of the Argentum Corps risk their lives and bring out power beyond their limits to fight against Olto Zora.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127193000 +0700" stop="20261127200000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The neck-and-neck battle between Kamui and Ragna reminds Kamui of Gilzea, the dragon who defeated him in the past.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127200000 +0700" stop="20261127203000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127203000 +0700" stop="20261127210000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127210000 +0700" stop="20261127213000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori's classmates think he is dating Chisa, so Iori and Kohei setup a mixer for them to save themselves from danger.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127213000 +0700" stop="20261127220000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>PaB's new members, including Aina, learn the hand signals, and the members go to dive. Iori is paired up with Chisa.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127220000 +0700" stop="20261127223000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Members of the Argentum Corps risk their lives and bring out power beyond their limits to fight against Olto Zora.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127223000 +0700" stop="20261127230000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The neck-and-neck battle between Kamui and Ragna reminds Kamui of Gilzea, the dragon who defeated him in the past.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127230000 +0700" stop="20261127233000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261127233000 +0700" stop="20261128000000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-27</date>
+  </programme>
+  <programme channel="369848" start="20261128000000 +0700" stop="20261128003000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori's classmates think he is dating Chisa, so Iori and Kohei setup a mixer for them to save themselves from danger.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128003000 +0700" stop="20261128010000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>PaB's new members, including Aina, learn the hand signals, and the members go to dive. Iori is paired up with Chisa.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128010000 +0700" stop="20261128013000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128013000 +0700" stop="20261128020000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo feels useless untransformed. Nico gives him a flying-magic ring, and he begins training. One day, Nemu visits him.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128020000 +0700" stop="20261128023000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>Members of the Argentum Corps risk their lives and bring out power beyond their limits to fight against Olto Zora.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128023000 +0700" stop="20261128030000 +0700">
+    <title lang="zh">RAGNA CRIMSON</title>
+    <desc>The neck-and-neck battle between Kamui and Ragna reminds Kamui of Gilzea, the dragon who defeated him in the past.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128030000 +0700" stop="20261128033000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128033000 +0700" stop="20261128040000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128040000 +0700" stop="20261128043000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>Iori's classmates think he is dating Chisa, so Iori and Kohei setup a mixer for them to save themselves from danger.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128043000 +0700" stop="20261128050000 +0700">
+    <title lang="zh">GRAND BLUE</title>
+    <desc>PaB's new members, including Aina, learn the hand signals, and the members go to dive. Iori is paired up with Chisa.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128050000 +0700" stop="20261128053000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Vampire Miharu Kiryu joins the Otogi household. He's a night owl living on Morihito's energy and brings more chaos.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128053000 +0700" stop="20261128060000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito, Kanshi, Keigo, and Miharu wake in a room with masks, forced by Zigzag into a deadly game to save Nico.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128060000 +0700" stop="20261128063000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128063000 +0700" stop="20261128070000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128070000 +0700" stop="20261128073000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo feels useless untransformed. Nico gives him a flying-magic ring, and he begins training. One day, Nemu visits him.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128073000 +0700" stop="20261128080000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Actress Akane struggles to stand out in "Now Gachi," acting out but failing to get the desired response, leading to growing anxiety.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128080000 +0700" stop="20261128083000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Aqua saves Akane from a dangerous situation, and she decides to continue the show. Aqua then works to dispel the biases against her.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128083000 +0700" stop="20261128090000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Akane perfectly impersonate Ai, uncovering her hidden child, which piques Aqua's strong interest in her.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128090000 +0700" stop="20261128093000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Memcho, a promising new member of B Komachi with idol dreams, has a secret despite her popularity and no contractual issues.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128093000 +0700" stop="20261128100000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>After leaving the house without saying goodbye to Kyo, Kazuma confesses that he took Kyo in to atone for his past.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128100000 +0700" stop="20261128103000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>The 'Prince Yuki' fan club tries to find out the new members of the student council to know if there are any other girls.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128103000 +0700" stop="20261128110000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>While discussing career plans, Arisa suggests that Tohru could marry either Kyo or Yuki instead of pursuing a career.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128110000 +0700" stop="20261128113000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Yuki and Tohru visit Ayame's shop, which turns out to be a flamboyant clothes store that caters to the fantasies of men.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128113000 +0700" stop="20261128120000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Momiji barges into Tohru's class while they are discussing their school trip plans, seeking help to stop Hatsuharu's rampage.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128120000 +0700" stop="20261128123000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>It is the beginning of the summer break. Arisa has a new admirer from the convenience store that she works at.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128123000 +0700" stop="20261128130000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128130000 +0700" stop="20261128133000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128133000 +0700" stop="20261128140000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Vampire Miharu Kiryu joins the Otogi household. He's a night owl living on Morihito's energy and brings more chaos.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128140000 +0700" stop="20261128143000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito, Kanshi, Keigo, and Miharu wake in a room with masks, forced by Zigzag into a deadly game to save Nico.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128143000 +0700" stop="20261128150000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Nico and Kukku help at the shrine. Nico's paper cat moves, but Kara's ‘bird' is so bad it looks more like a "Shikigami".</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128150000 +0700" stop="20261128153000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito finds Nico's childhood letter and visits his late mother's grave, while the others listen to their story.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128153000 +0700" stop="20261128160000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Keigo feels useless untransformed. Nico gives him a flying-magic ring, and he begins training. One day, Nemu visits him.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128160000 +0700" stop="20261128163000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Takagi-san wears her summer uniform on a cold day. Will Nishikata be able to make her admit she's cold and defeat her?</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128163000 +0700" stop="20261128170000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata feels down because he had the food he hates for breakfast. Can he guess what Takagi-san hates correctly?</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128170000 +0700" stop="20261128173000 +0700">
+    <title lang="zh">TEASING MASTER TAKAGI-SAN SEASON 3</title>
+    <desc>Nishikata can't act well in the rehearsal of the play, so he asks Takagi-san to go to the roof and practise with him.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128173000 +0700" stop="20261128180000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Actress Akane struggles to stand out in "Now Gachi," acting out but failing to get the desired response, leading to growing anxiety.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128180000 +0700" stop="20261128183000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Aqua saves Akane from a dangerous situation, and she decides to continue the show. Aqua then works to dispel the biases against her.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128183000 +0700" stop="20261128190000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Akane perfectly impersonate Ai, uncovering her hidden child, which piques Aqua's strong interest in her.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128190000 +0700" stop="20261128193000 +0700">
+    <title lang="zh">OSHI NO KO</title>
+    <desc>Memcho, a promising new member of B Komachi with idol dreams, has a secret despite her popularity and no contractual issues.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128193000 +0700" stop="20261128200000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 1</title>
+    <desc>After leaving the house without saying goodbye to Kyo, Kazuma confesses that he took Kyo in to atone for his past.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128200000 +0700" stop="20261128203000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>The 'Prince Yuki' fan club tries to find out the new members of the student council to know if there are any other girls.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128203000 +0700" stop="20261128210000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>While discussing career plans, Arisa suggests that Tohru could marry either Kyo or Yuki instead of pursuing a career.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128210000 +0700" stop="20261128213000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Yuki and Tohru visit Ayame's shop, which turns out to be a flamboyant clothes store that caters to the fantasies of men.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128213000 +0700" stop="20261128220000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>Momiji barges into Tohru's class while they are discussing their school trip plans, seeking help to stop Hatsuharu's rampage.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128220000 +0700" stop="20261129000000 +0700">
+    <title lang="zh">FRUITS BASKET SEASON 2</title>
+    <desc>It is the beginning of the summer break. Arisa has a new admirer from the convenience store that she works at.</desc>
+    <date>2026-11-28</date>
+  </programme>
+</tv>
