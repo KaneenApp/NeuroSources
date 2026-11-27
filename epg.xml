@@ -463,9 +463,29 @@
     <desc>Momiji barges into Tohru's class while they are discussing their school trip plans, seeking help to stop Hatsuharu's rampage.</desc>
     <date>2026-11-28</date>
   </programme>
-  <programme channel="369848" start="20261128220000 +0700" stop="20261129000000 +0700">
+  <programme channel="369848" start="20261128220000 +0700" stop="20261128223000 +0700">
     <title lang="zh">FRUITS BASKET SEASON 2</title>
     <desc>It is the beginning of the summer break. Arisa has a new admirer from the convenience store that she works at.</desc>
     <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128223000 +0700" stop="20261128230000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>Raeliana wakes up in Noah's bed and sees him naked. She runs away and disguises herself as a maid in the mansion.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128230000 +0700" stop="20261128233000 +0700">
+    <title lang="zh">WHY RAELIANA ENDED UP AT THE DUKE'S MANSION</title>
+    <desc>It's a custom for women to give men a handkerchief before a Monster Hunt. Noah makes a request to Raeliana on that day.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261128233000 +0700" stop="20261129000000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Vampire Miharu Kiryu joins the Otogi household. He's a night owl living on Morihito's energy and brings more chaos.</desc>
+    <date>2026-11-28</date>
+  </programme>
+  <programme channel="369848" start="20261129000000 +0700" stop="20261130000000 +0700">
+    <title lang="zh">WITCH WATCH</title>
+    <desc>Morihito, Kanshi, Keigo, and Miharu wake in a room with masks, forced by Zigzag into a deadly game to save Nico.</desc>
+    <date>2026-11-29</date>
   </programme>
 </tv>
